@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/python阶段.iml" filepath="$PROJECT_DIR$/.idea/python阶段.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/testproject.iml" filepath="$PROJECT_DIR$/.idea/testproject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/text.iml" filepath="$PROJECT_DIR$/.idea/text.iml" />
     </modules>
   </component>
 </project>
