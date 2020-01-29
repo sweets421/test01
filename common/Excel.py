@@ -1,5 +1,5 @@
 # coding=utf-8
-import xlrd, xlwt, traceback
+import xlrd,xlwt,traceback
 from xlutils.copy import copy
 
 
@@ -34,6 +34,7 @@ class Reader:
     def set_sheet(self, name):
         # 切换sheet页面
         self.sheet = self.workbook.sheet_by_name(name)  # 通过sheet名字，切换sheet页面
+        print(name)
         self.rows = self.sheet.nrows
         self.r = 0
         return
@@ -99,7 +100,6 @@ class Writer:
         except Exception as e:
             print(traceback.format_exc(e))
         return
-
 
 # if __name__ == '__main__':
 #     reader = Reader()

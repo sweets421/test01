@@ -1,0 +1,809 @@
+2020-01-26 18:11:50,532-DEBUG-test
+2020-01-26 18:32:45,266-INFO-PASS
+2020-01-26 18:32:45,316-INFO-PASS
+2020-01-26 18:32:45,376-INFO-PASS
+2020-01-26 18:32:45,431-INFO-PASS
+2020-01-26 18:32:45,486-INFO-PASS
+2020-01-26 18:32:45,541-INFO-PASS
+2020-01-26 18:32:45,771-INFO-PASS
+2020-01-26 18:32:45,821-INFO-PASS
+2020-01-26 18:32:45,876-INFO-PASS
+2020-01-26 18:32:45,926-INFO-PASS
+2020-01-26 18:32:45,976-INFO-PASS
+2020-01-26 18:32:46,026-INFO-PASS
+2020-01-26 18:32:46,131-INFO-PASS
+2020-01-26 18:32:46,176-INFO-PASS
+2020-01-26 18:32:46,231-INFO-PASS
+2020-01-26 18:32:46,346-ERROR-'status'
+Traceback (most recent call last):
+  File "H:\mi\learn\testing\text\modules\http.py", line 103, in assertequals
+    if (str(self.result_json[key]) == str(value)):
+KeyError: 'status'
+2020-01-26 18:32:46,451-INFO-PASS
+2020-01-26 18:32:46,506-ERROR-'status'
+Traceback (most recent call last):
+  File "H:\mi\learn\testing\text\modules\http.py", line 103, in assertequals
+    if (str(self.result_json[key]) == str(value)):
+KeyError: 'status'
+2020-01-26 18:32:46,596-INFO-FAIL
+2020-01-26 18:32:46,651-INFO-FAIL
+2020-01-26 18:32:46,716-INFO-PASS
+2020-01-26 18:32:46,766-INFO-PASS
+2020-01-26 18:32:46,811-INFO-PASS
+2020-01-26 18:32:46,856-INFO-PASS
+2020-01-26 18:32:46,901-INFO-PASS
+2020-01-26 18:32:46,946-ERROR-'status'
+Traceback (most recent call last):
+  File "H:\mi\learn\testing\text\modules\http.py", line 103, in assertequals
+    if (str(self.result_json[key]) == str(value)):
+KeyError: 'status'
+2020-01-26 18:32:47,046-INFO-PASS
+2020-01-26 18:32:47,106-ERROR-'status'
+Traceback (most recent call last):
+  File "H:\mi\learn\testing\text\modules\http.py", line 103, in assertequals
+    if (str(self.result_json[key]) == str(value)):
+KeyError: 'status'
+2020-01-26 18:32:47,201-INFO-PASS
+2020-01-26 18:32:47,251-INFO-PASS
+2020-01-26 18:32:47,301-INFO-PASS
+2020-01-26 18:32:47,351-INFO-PASS
+2020-01-26 18:32:47,401-INFO-PASS
+2020-01-26 18:32:47,446-INFO-PASS
+2020-01-26 18:32:47,491-INFO-PASS
+2020-01-26 18:32:47,536-ERROR-'status'
+Traceback (most recent call last):
+  File "H:\mi\learn\testing\text\modules\http.py", line 103, in assertequals
+    if (str(self.result_json[key]) == str(value)):
+KeyError: 'status'
+2020-01-26 18:32:47,626-INFO-PASS
+2020-01-26 18:32:47,766-INFO-PASS
+2020-01-26 18:32:47,816-INFO-PASS
+2020-01-26 18:32:47,866-INFO-PASS
+2020-01-26 18:32:47,911-INFO-PASS
+2020-01-26 18:32:48,056-INFO-PASS
+2020-01-26 18:32:48,196-INFO-PASS
+2020-01-26 19:04:53,462-INFO-PASS
+2020-01-26 19:04:53,512-INFO-PASS
+2020-01-26 19:04:53,562-INFO-PASS
+2020-01-26 19:04:53,612-INFO-PASS
+2020-01-26 19:04:53,662-INFO-PASS
+2020-01-26 19:04:53,717-INFO-PASS
+2020-01-26 19:04:53,817-INFO-PASS
+2020-01-26 19:04:53,867-INFO-PASS
+2020-01-26 19:04:53,917-INFO-PASS
+2020-01-26 19:04:53,967-INFO-PASS
+2020-01-26 19:04:54,017-INFO-PASS
+2020-01-26 19:04:54,067-INFO-PASS
+2020-01-26 19:04:54,162-INFO-PASS
+2020-01-26 19:04:54,207-INFO-PASS
+2020-01-26 19:04:54,257-INFO-PASS
+2020-01-26 19:04:54,372-ERROR-'status'
+Traceback (most recent call last):
+  File "H:\mi\learn\testing\text\modules\http.py", line 103, in assertequals
+    if (str(self.result_json[key]) == str(value)):
+KeyError: 'status'
+2020-01-26 19:04:54,572-INFO-PASS
+2020-01-26 19:04:54,627-ERROR-'status'
+Traceback (most recent call last):
+  File "H:\mi\learn\testing\text\modules\http.py", line 103, in assertequals
+    if (str(self.result_json[key]) == str(value)):
+KeyError: 'status'
+2020-01-26 19:04:54,717-INFO-FAIL
+2020-01-26 19:04:54,767-INFO-FAIL
+2020-01-26 19:04:54,812-INFO-PASS
+2020-01-26 19:04:54,857-INFO-PASS
+2020-01-26 19:04:54,907-INFO-PASS
+2020-01-26 19:04:54,952-INFO-PASS
+2020-01-26 19:04:54,997-INFO-PASS
+2020-01-26 19:04:55,047-ERROR-'status'
+Traceback (most recent call last):
+  File "H:\mi\learn\testing\text\modules\http.py", line 103, in assertequals
+    if (str(self.result_json[key]) == str(value)):
+KeyError: 'status'
+2020-01-26 19:04:55,137-INFO-PASS
+2020-01-26 19:04:55,187-ERROR-'status'
+Traceback (most recent call last):
+  File "H:\mi\learn\testing\text\modules\http.py", line 103, in assertequals
+    if (str(self.result_json[key]) == str(value)):
+KeyError: 'status'
+2020-01-26 19:04:55,287-INFO-PASS
+2020-01-26 19:04:55,337-INFO-PASS
+2020-01-26 19:04:55,382-INFO-PASS
+2020-01-26 19:04:55,432-INFO-PASS
+2020-01-26 19:04:55,477-INFO-PASS
+2020-01-26 19:04:55,522-INFO-PASS
+2020-01-26 19:04:55,567-INFO-PASS
+2020-01-26 19:04:55,617-ERROR-'status'
+Traceback (most recent call last):
+  File "H:\mi\learn\testing\text\modules\http.py", line 103, in assertequals
+    if (str(self.result_json[key]) == str(value)):
+KeyError: 'status'
+2020-01-26 19:04:55,707-INFO-PASS
+2020-01-26 19:04:55,847-INFO-PASS
+2020-01-26 19:04:55,892-INFO-PASS
+2020-01-26 19:04:55,942-INFO-PASS
+2020-01-26 19:04:55,992-INFO-PASS
+2020-01-26 19:04:56,127-INFO-PASS
+2020-01-26 19:04:56,272-INFO-PASS
+2020-01-27 12:56:16,899-DEBUG-{'mysqluser': 'Tester', 'mysqlpassword': '123456', 'mysqlport': '3306', 'mysqlhost': '112.74.191.10', 'mysqldb': 'test_project', 'mysqlcharset': 'utf8', 'mail': '943820638@qq.com', 'pwd': 'jhx19920421', 'mailto': '13732250984@163.com', 'mailcopy': '2274304947@qq.com,1137451353@qq.com', 'mailtitle': '接口自动化测试报告', 'mail_encoding': 'utf8', 'mailtxt': '<html><style type="text/css">body{ background:#ffffff; margin:0 auto; padding:0; text-align:left; font-size:13px; font-family: "微软雅黑","宋体";}table{ font-size:13px; font-family: "微软雅黑","宋体";}.table_c{border:1px solid #ccc;border-collapse:collapse; }.table_c td{border:1px solid #ccc; border-collapse:collapse;}.table_b{border:1px solid #666;border-collapse:collapse; }.table_b td{ border-collapse:collapse; border:1px solid #ccc;}.table_b th{color:#fff; background:#666;}a:link{ color:#3366cc; font-weight:normal; }a:visited { color: #3366cc;}a:hover{ color:#000; }a:active { color:#3366cc; }td{ line-height:20px;}.case-group {border: 1px solid transparent;border-color: #ddd;line-height:5px;}.case-group a:link,a:hover{color:#0092fa;text-decoration:none;}.group-模拟器测试用例{margin: 10px;}.case-模拟器测试用例{height: 30px;}.case-case {border-top: 1px solid;border-color: #ddd;padding: 13px;word-wrap: break-word;}.statuclass{float:right;right:5%;position:relative;}.countclass{float:right;right:20%;position:relative;}.passclass{float:right;right:30%;position:relative;}.casename{position:relative;left:3%;}.righta{float:right;font-size:20px;}.case-file{border: 2px #8cbfff solid;border-radius: 5px;}</style><table width="650" ="0" cellspacing="0" align="center" cellpadding="0" style="border-radius: 15px;background-color: #f6f5f5;border: 1px #ffe4da solid;"><tbody><tr><td><table width="650" border="0" cellpadding="0" cellspacing="0" style="border-radius: 15px 15px 0 0;background-color: #ffffff;"><tbody><tr><td width="137"><img src="http://112.74.191.10/wp-content/uploads/2018/07/logo_middle.png" width="137" height="80"></td><td align="left" style="font-size: 13px;color: #999999;padding-top: 26px;right: 10px;position: relative;top: -10px;text-align:right;"><h style="font-size: 20px;font-family: cursive;line-height: 30px;color: #8cbfff;">Hi All ！ </h><br>此为来自特斯汀学院自动化小组测试邮件，请不要直接回复。</td></tr></tbody></table><br><table width="592" border="0" cellspacing="0" cellpadding="0" align="center"><tbody><tr><td style="font-size: 14px; color: 333333; font-weight: bold; padding-bottom:15px;">测试报告：<font color="ff6600">自动化测试用例</font></td></tr><tr><td style="border: 2px #8cbfff solid;border-radius: 5px;"><table width="572" border="0" align="center" class="table_c" style="border-collapse:collapse;margin: 10px;"><tbody><tr><td width="100" height="28" align="center" bgcolor="#ffe9e9" style="border:1px solid #ccc;">测试内容</td><td colspan="3" bgcolor="#FFFFFF" align="center" style="border:1px solid #ccc;"><h4 style="line-height: 1px;margin:0;">title</h4></td></tr><tr><td width="100" height="28" align="center" bgcolor="#ffe9e9" style="border:1px solid #ccc;">测试状态</td><td height="28" width="150" bgcolor="#FFFFFF" align="center" style="border:1px solid #ccc;"><font style="font-weight: bold;font-size: 14px;color: #00d800;">status</font></td><td width="100" height="28" align="center" bgcolor="#ffe9e9" style="border:1px solid #ccc;">类型</td><td height="28" bgcolor="#FFFFFF" align="center" style="border:1px solid #ccc;">runtype</td></tr><tr><td width="80" height="28" align="center" bgcolor="#ffe9e9" style="border:1px solid #ccc;">通过率</td><td height="28" bgcolor="#FFFFFF" align="center" style="border:1px solid #ccc;">passrate</td><td width="100" height="28" align="center" bgcolor="#ffe9e9" style="border:1px solid #ccc;">开始时间</td><td height="28" bgcolor="#FFFFFF" align="center" style="border:1px solid #ccc;">starttime</td></tr><tr><td width="80" height="28" align="center" bgcolor="#ffe9e9" style="border:1px solid #ccc;">总用例数</td><td height="28" bgcolor="#FFFFFF" align="center" style="border:1px solid #ccc;">casecount</td><td width="80" height="28" align="center" bgcolor="#ffe9e9" style="border:1px solid #ccc;">结束时间</td><td height="28" bgcolor="#FFFFFF" align="center" style="border:1px solid #ccc;">endtime</td></tr></tbody></table></td></tr><tr><td><table width="592" border="0" align="center" cellspacing="0" cellpadding="0" style="margin: 24px 0 10px 0;border-bottom: #e4e4e4 1px solid;"><tbody><tr><td style="font-size: 13px; line-height: 20px; color: #999999; padding-top: 6px;">如果您对本次邮件结果有任何疑问，请联系 <a href="http://wpa.qq.com/msgrd?v=3&uin=1052949192&site=qq&menu=yes" target="_blank" color="#666666">William：1052949192</a></a> 反馈。</td></tr></tbody></table></td></tr><td><table width="592" border="0" align="center" cellspacing="0" cellpadding="0" style="margin: 24px 0 16px 0;border-top: #e4e4e4 1px solid;"><tbody><tr><td style="font-size: 13px; line-height: 20px; color: #999999; padding-top: 6px;">感谢您的查阅。<font color="#666666">All Rights Reserved by 特斯汀 College. Designed and Developed by Mr. William.</font></a></td></tr></tbody></table></td></tr></tbody></table></td></tr></tbody></table></body></html>'}
+2020-01-27 13:54:17,099-DEBUG-{'mysqluser': 'Tester', 'mysqlpassword': '123456', 'mysqlport': '3306', 'mysqlhost': '112.74.191.10', 'mysqldb': 'test_project', 'mysqlcharset': 'utf8', 'mail': '943820638@qq.com', 'pwd': '*515bs02ZmQi13j?', 'mailto': '943820638@qq.com', 'mailcopy': '2274304947@qq.com,1137451353@qq.com', 'mailtitle': '接口自动化测试报告', 'mail_encoding': 'utf8', 'mailtxt': '<html><style type="text/css">body{ background:#ffffff; margin:0 auto; padding:0; text-align:left; font-size:13px; font-family: "微软雅黑","宋体";}table{ font-size:13px; font-family: "微软雅黑","宋体";}.table_c{border:1px solid #ccc;border-collapse:collapse; }.table_c td{border:1px solid #ccc; border-collapse:collapse;}.table_b{border:1px solid #666;border-collapse:collapse; }.table_b td{ border-collapse:collapse; border:1px solid #ccc;}.table_b th{color:#fff; background:#666;}a:link{ color:#3366cc; font-weight:normal; }a:visited { color: #3366cc;}a:hover{ color:#000; }a:active { color:#3366cc; }td{ line-height:20px;}.case-group {border: 1px solid transparent;border-color: #ddd;line-height:5px;}.case-group a:link,a:hover{color:#0092fa;text-decoration:none;}.group-模拟器测试用例{margin: 10px;}.case-模拟器测试用例{height: 30px;}.case-case {border-top: 1px solid;border-color: #ddd;padding: 13px;word-wrap: break-word;}.statuclass{float:right;right:5%;position:relative;}.countclass{float:right;right:20%;position:relative;}.passclass{float:right;right:30%;position:relative;}.casename{position:relative;left:3%;}.righta{float:right;font-size:20px;}.case-file{border: 2px #8cbfff solid;border-radius: 5px;}</style><table width="650" ="0" cellspacing="0" align="center" cellpadding="0" style="border-radius: 15px;background-color: #f6f5f5;border: 1px #ffe4da solid;"><tbody><tr><td><table width="650" border="0" cellpadding="0" cellspacing="0" style="border-radius: 15px 15px 0 0;background-color: #ffffff;"><tbody><tr><td width="137"><img src="http://112.74.191.10/wp-content/uploads/2018/07/logo_middle.png" width="137" height="80"></td><td align="left" style="font-size: 13px;color: #999999;padding-top: 26px;right: 10px;position: relative;top: -10px;text-align:right;"><h style="font-size: 20px;font-family: cursive;line-height: 30px;color: #8cbfff;">Hi All ！ </h><br>此为来自特斯汀学院自动化小组测试邮件，请不要直接回复。</td></tr></tbody></table><br><table width="592" border="0" cellspacing="0" cellpadding="0" align="center"><tbody><tr><td style="font-size: 14px; color: 333333; font-weight: bold; padding-bottom:15px;">测试报告：<font color="ff6600">自动化测试用例</font></td></tr><tr><td style="border: 2px #8cbfff solid;border-radius: 5px;"><table width="572" border="0" align="center" class="table_c" style="border-collapse:collapse;margin: 10px;"><tbody><tr><td width="100" height="28" align="center" bgcolor="#ffe9e9" style="border:1px solid #ccc;">测试内容</td><td colspan="3" bgcolor="#FFFFFF" align="center" style="border:1px solid #ccc;"><h4 style="line-height: 1px;margin:0;">title</h4></td></tr><tr><td width="100" height="28" align="center" bgcolor="#ffe9e9" style="border:1px solid #ccc;">测试状态</td><td height="28" width="150" bgcolor="#FFFFFF" align="center" style="border:1px solid #ccc;"><font style="font-weight: bold;font-size: 14px;color: #00d800;">status</font></td><td width="100" height="28" align="center" bgcolor="#ffe9e9" style="border:1px solid #ccc;">类型</td><td height="28" bgcolor="#FFFFFF" align="center" style="border:1px solid #ccc;">runtype</td></tr><tr><td width="80" height="28" align="center" bgcolor="#ffe9e9" style="border:1px solid #ccc;">通过率</td><td height="28" bgcolor="#FFFFFF" align="center" style="border:1px solid #ccc;">passrate</td><td width="100" height="28" align="center" bgcolor="#ffe9e9" style="border:1px solid #ccc;">开始时间</td><td height="28" bgcolor="#FFFFFF" align="center" style="border:1px solid #ccc;">starttime</td></tr><tr><td width="80" height="28" align="center" bgcolor="#ffe9e9" style="border:1px solid #ccc;">总用例数</td><td height="28" bgcolor="#FFFFFF" align="center" style="border:1px solid #ccc;">casecount</td><td width="80" height="28" align="center" bgcolor="#ffe9e9" style="border:1px solid #ccc;">结束时间</td><td height="28" bgcolor="#FFFFFF" align="center" style="border:1px solid #ccc;">endtime</td></tr></tbody></table></td></tr><tr><td><table width="592" border="0" align="center" cellspacing="0" cellpadding="0" style="margin: 24px 0 10px 0;border-bottom: #e4e4e4 1px solid;"><tbody><tr><td style="font-size: 13px; line-height: 20px; color: #999999; padding-top: 6px;">如果您对本次邮件结果有任何疑问，请联系 <a href="http://wpa.qq.com/msgrd?v=3&uin=1052949192&site=qq&menu=yes" target="_blank" color="#666666">William：1052949192</a></a> 反馈。</td></tr></tbody></table></td></tr><td><table width="592" border="0" align="center" cellspacing="0" cellpadding="0" style="margin: 24px 0 16px 0;border-top: #e4e4e4 1px solid;"><tbody><tr><td style="font-size: 13px; line-height: 20px; color: #999999; padding-top: 6px;">感谢您的查阅。<font color="#666666">All Rights Reserved by 特斯汀 College. Designed and Developed by Mr. William.</font></a></td></tr></tbody></table></td></tr></tbody></table></td></tr></tbody></table></body></html>'}
+2020-01-27 14:10:45,766-DEBUG-{'mysqluser': 'Tester', 'mysqlpassword': '123456', 'mysqlport': '3306', 'mysqlhost': '112.74.191.10', 'mysqldb': 'test_project', 'mysqlcharset': 'utf8', 'mail': '943820638@qq.com', 'pwd': 'uwsozztwijgpbdee', 'mailto': '943820638@qq.com', 'mailcopy': '2274304947@qq.com,1137451353@qq.com', 'mailtitle': '接口自动化测试报告', 'mail_encoding': 'utf8', 'mailtxt': '<html><style type="text/css">body{ background:#ffffff; margin:0 auto; padding:0; text-align:left; font-size:13px; font-family: "微软雅黑","宋体";}table{ font-size:13px; font-family: "微软雅黑","宋体";}.table_c{border:1px solid #ccc;border-collapse:collapse; }.table_c td{border:1px solid #ccc; border-collapse:collapse;}.table_b{border:1px solid #666;border-collapse:collapse; }.table_b td{ border-collapse:collapse; border:1px solid #ccc;}.table_b th{color:#fff; background:#666;}a:link{ color:#3366cc; font-weight:normal; }a:visited { color: #3366cc;}a:hover{ color:#000; }a:active { color:#3366cc; }td{ line-height:20px;}.case-group {border: 1px solid transparent;border-color: #ddd;line-height:5px;}.case-group a:link,a:hover{color:#0092fa;text-decoration:none;}.group-模拟器测试用例{margin: 10px;}.case-模拟器测试用例{height: 30px;}.case-case {border-top: 1px solid;border-color: #ddd;padding: 13px;word-wrap: break-word;}.statuclass{float:right;right:5%;position:relative;}.countclass{float:right;right:20%;position:relative;}.passclass{float:right;right:30%;position:relative;}.casename{position:relative;left:3%;}.righta{float:right;font-size:20px;}.case-file{border: 2px #8cbfff solid;border-radius: 5px;}</style><table width="650" ="0" cellspacing="0" align="center" cellpadding="0" style="border-radius: 15px;background-color: #f6f5f5;border: 1px #ffe4da solid;"><tbody><tr><td><table width="650" border="0" cellpadding="0" cellspacing="0" style="border-radius: 15px 15px 0 0;background-color: #ffffff;"><tbody><tr><td width="137"><img src="http://112.74.191.10/wp-content/uploads/2018/07/logo_middle.png" width="137" height="80"></td><td align="left" style="font-size: 13px;color: #999999;padding-top: 26px;right: 10px;position: relative;top: -10px;text-align:right;"><h style="font-size: 20px;font-family: cursive;line-height: 30px;color: #8cbfff;">Hi All ！ </h><br>此为来自特斯汀学院自动化小组测试邮件，请不要直接回复。</td></tr></tbody></table><br><table width="592" border="0" cellspacing="0" cellpadding="0" align="center"><tbody><tr><td style="font-size: 14px; color: 333333; font-weight: bold; padding-bottom:15px;">测试报告：<font color="ff6600">自动化测试用例</font></td></tr><tr><td style="border: 2px #8cbfff solid;border-radius: 5px;"><table width="572" border="0" align="center" class="table_c" style="border-collapse:collapse;margin: 10px;"><tbody><tr><td width="100" height="28" align="center" bgcolor="#ffe9e9" style="border:1px solid #ccc;">测试内容</td><td colspan="3" bgcolor="#FFFFFF" align="center" style="border:1px solid #ccc;"><h4 style="line-height: 1px;margin:0;">title</h4></td></tr><tr><td width="100" height="28" align="center" bgcolor="#ffe9e9" style="border:1px solid #ccc;">测试状态</td><td height="28" width="150" bgcolor="#FFFFFF" align="center" style="border:1px solid #ccc;"><font style="font-weight: bold;font-size: 14px;color: #00d800;">status</font></td><td width="100" height="28" align="center" bgcolor="#ffe9e9" style="border:1px solid #ccc;">类型</td><td height="28" bgcolor="#FFFFFF" align="center" style="border:1px solid #ccc;">runtype</td></tr><tr><td width="80" height="28" align="center" bgcolor="#ffe9e9" style="border:1px solid #ccc;">通过率</td><td height="28" bgcolor="#FFFFFF" align="center" style="border:1px solid #ccc;">passrate</td><td width="100" height="28" align="center" bgcolor="#ffe9e9" style="border:1px solid #ccc;">开始时间</td><td height="28" bgcolor="#FFFFFF" align="center" style="border:1px solid #ccc;">starttime</td></tr><tr><td width="80" height="28" align="center" bgcolor="#ffe9e9" style="border:1px solid #ccc;">总用例数</td><td height="28" bgcolor="#FFFFFF" align="center" style="border:1px solid #ccc;">casecount</td><td width="80" height="28" align="center" bgcolor="#ffe9e9" style="border:1px solid #ccc;">结束时间</td><td height="28" bgcolor="#FFFFFF" align="center" style="border:1px solid #ccc;">endtime</td></tr></tbody></table></td></tr><tr><td><table width="592" border="0" align="center" cellspacing="0" cellpadding="0" style="margin: 24px 0 10px 0;border-bottom: #e4e4e4 1px solid;"><tbody><tr><td style="font-size: 13px; line-height: 20px; color: #999999; padding-top: 6px;">如果您对本次邮件结果有任何疑问，请联系 <a href="http://wpa.qq.com/msgrd?v=3&uin=1052949192&site=qq&menu=yes" target="_blank" color="#666666">William：1052949192</a></a> 反馈。</td></tr></tbody></table></td></tr><td><table width="592" border="0" align="center" cellspacing="0" cellpadding="0" style="margin: 24px 0 16px 0;border-top: #e4e4e4 1px solid;"><tbody><tr><td style="font-size: 13px; line-height: 20px; color: #999999; padding-top: 6px;">感谢您的查阅。<font color="#666666">All Rights Reserved by 特斯汀 College. Designed and Developed by Mr. William.</font></a></td></tr></tbody></table></td></tr></tbody></table></td></tr></tbody></table></body></html>'}
+2020-01-27 14:10:47,955-DEBUG-{'from': '943820638@qq.com', 'username': '943820638@qq.com', 'hostname': 'smtp.qq.com', 'password': 'uwsozztwijgpbdee', 'to': ['943820638@qq.com'], 'cc': ['2274304947@qq.com', '1137451353@qq.com'], 'mail_subject': '接口自动化测试报告', 'mail_encoding': 'utf8', 'filepaths': [], 'filenames': []}
+2020-01-27 14:10:47,955-DEBUG-<html><style type="text/css">body{ background:#ffffff; margin:0 auto; padding:0; text-align:left; font-size:13px; font-family: "微软雅黑","宋体";}table{ font-size:13px; font-family: "微软雅黑","宋体";}.table_c{border:1px solid #ccc;border-collapse:collapse; }.table_c td{border:1px solid #ccc; border-collapse:collapse;}.table_b{border:1px solid #666;border-collapse:collapse; }.table_b td{ border-collapse:collapse; border:1px solid #ccc;}.table_b th{color:#fff; background:#666;}a:link{ color:#3366cc; font-weight:normal; }a:visited { color: #3366cc;}a:hover{ color:#000; }a:active { color:#3366cc; }td{ line-height:20px;}.case-group {border: 1px solid transparent;border-color: #ddd;line-height:5px;}.case-group a:link,a:hover{color:#0092fa;text-decoration:none;}.group-模拟器测试用例{margin: 10px;}.case-模拟器测试用例{height: 30px;}.case-case {border-top: 1px solid;border-color: #ddd;padding: 13px;word-wrap: break-word;}.statuclass{float:right;right:5%;position:relative;}.countclass{float:right;right:20%;position:relative;}.passclass{float:right;right:30%;position:relative;}.casename{position:relative;left:3%;}.righta{float:right;font-size:20px;}.case-file{border: 2px #8cbfff solid;border-radius: 5px;}</style><table width="650" ="0" cellspacing="0" align="center" cellpadding="0" style="border-radius: 15px;background-color: #f6f5f5;border: 1px #ffe4da solid;"><tbody><tr><td><table width="650" border="0" cellpadding="0" cellspacing="0" style="border-radius: 15px 15px 0 0;background-color: #ffffff;"><tbody><tr><td width="137"><img src="http://112.74.191.10/wp-content/uploads/2018/07/logo_middle.png" width="137" height="80"></td><td align="left" style="font-size: 13px;color: #999999;padding-top: 26px;right: 10px;position: relative;top: -10px;text-align:right;"><h style="font-size: 20px;font-family: cursive;line-height: 30px;color: #8cbfff;">Hi All ！ </h><br>此为来自特斯汀学院自动化小组测试邮件，请不要直接回复。</td></tr></tbody></table><br><table width="592" border="0" cellspacing="0" cellpadding="0" align="center"><tbody><tr><td style="font-size: 14px; color: 333333; font-weight: bold; padding-bottom:15px;">测试报告：<font color="ff6600">自动化测试用例</font></td></tr><tr><td style="border: 2px #8cbfff solid;border-radius: 5px;"><table width="572" border="0" align="center" class="table_c" style="border-collapse:collapse;margin: 10px;"><tbody><tr><td width="100" height="28" align="center" bgcolor="#ffe9e9" style="border:1px solid #ccc;">测试内容</td><td colspan="3" bgcolor="#FFFFFF" align="center" style="border:1px solid #ccc;"><h4 style="line-height: 1px;margin:0;">title</h4></td></tr><tr><td width="100" height="28" align="center" bgcolor="#ffe9e9" style="border:1px solid #ccc;">测试状态</td><td height="28" width="150" bgcolor="#FFFFFF" align="center" style="border:1px solid #ccc;"><font style="font-weight: bold;font-size: 14px;color: #00d800;">status</font></td><td width="100" height="28" align="center" bgcolor="#ffe9e9" style="border:1px solid #ccc;">类型</td><td height="28" bgcolor="#FFFFFF" align="center" style="border:1px solid #ccc;">runtype</td></tr><tr><td width="80" height="28" align="center" bgcolor="#ffe9e9" style="border:1px solid #ccc;">通过率</td><td height="28" bgcolor="#FFFFFF" align="center" style="border:1px solid #ccc;">passrate</td><td width="100" height="28" align="center" bgcolor="#ffe9e9" style="border:1px solid #ccc;">开始时间</td><td height="28" bgcolor="#FFFFFF" align="center" style="border:1px solid #ccc;">starttime</td></tr><tr><td width="80" height="28" align="center" bgcolor="#ffe9e9" style="border:1px solid #ccc;">总用例数</td><td height="28" bgcolor="#FFFFFF" align="center" style="border:1px solid #ccc;">casecount</td><td width="80" height="28" align="center" bgcolor="#ffe9e9" style="border:1px solid #ccc;">结束时间</td><td height="28" bgcolor="#FFFFFF" align="center" style="border:1px solid #ccc;">endtime</td></tr></tbody></table></td></tr><tr><td><table width="592" border="0" align="center" cellspacing="0" cellpadding="0" style="margin: 24px 0 10px 0;border-bottom: #e4e4e4 1px solid;"><tbody><tr><td style="font-size: 13px; line-height: 20px; color: #999999; padding-top: 6px;">如果您对本次邮件结果有任何疑问，请联系 <a href="http://wpa.qq.com/msgrd?v=3&uin=1052949192&site=qq&menu=yes" target="_blank" color="#666666">William：1052949192</a></a> 反馈。</td></tr></tbody></table></td></tr><td><table width="592" border="0" align="center" cellspacing="0" cellpadding="0" style="margin: 24px 0 16px 0;border-top: #e4e4e4 1px solid;"><tbody><tr><td style="font-size: 13px; line-height: 20px; color: #999999; padding-top: 6px;">感谢您的查阅。<font color="#666666">All Rights Reserved by 特斯汀 College. Designed and Developed by Mr. William.</font></a></td></tr></tbody></table></td></tr></tbody></table></td></tr></tbody></table></body></html>
+2020-01-27 14:10:48,917-INFO-邮件发送成功
+2020-01-27 20:02:50,493-INFO-PASS
+2020-01-27 20:02:50,633-INFO-PASS
+2020-01-27 20:02:50,678-INFO-PASS
+2020-01-27 20:02:50,723-INFO-PASS
+2020-01-27 20:02:50,773-INFO-PASS
+2020-01-27 20:02:50,813-INFO-PASS
+2020-01-27 20:02:50,918-INFO-PASS
+2020-01-27 20:02:50,963-INFO-PASS
+2020-01-27 20:02:51,013-INFO-PASS
+2020-01-27 20:02:51,078-INFO-PASS
+2020-01-27 20:02:51,123-INFO-PASS
+2020-01-27 20:02:51,168-INFO-PASS
+2020-01-27 20:02:51,263-INFO-PASS
+2020-01-27 20:02:51,308-INFO-PASS
+2020-01-27 20:02:51,353-INFO-PASS
+2020-01-27 20:02:51,448-ERROR-'status'
+Traceback (most recent call last):
+  File "H:\mi\learn\testing\text\modules\http.py", line 103, in assertequals
+    if (str(self.result_json[key]) == str(value)):
+KeyError: 'status'
+2020-01-27 20:02:51,598-INFO-PASS
+2020-01-27 20:02:51,653-ERROR-'status'
+Traceback (most recent call last):
+  File "H:\mi\learn\testing\text\modules\http.py", line 103, in assertequals
+    if (str(self.result_json[key]) == str(value)):
+KeyError: 'status'
+2020-01-27 20:02:51,748-INFO-FAIL
+2020-01-27 20:02:51,798-INFO-FAIL
+2020-01-27 20:02:51,843-INFO-PASS
+2020-01-27 20:02:51,893-INFO-PASS
+2020-01-27 20:02:51,938-INFO-PASS
+2020-01-27 20:02:51,983-INFO-PASS
+2020-01-27 20:02:52,028-INFO-PASS
+2020-01-27 20:02:52,083-ERROR-'status'
+Traceback (most recent call last):
+  File "H:\mi\learn\testing\text\modules\http.py", line 103, in assertequals
+    if (str(self.result_json[key]) == str(value)):
+KeyError: 'status'
+2020-01-27 20:02:52,163-INFO-PASS
+2020-01-27 20:02:52,213-ERROR-'status'
+Traceback (most recent call last):
+  File "H:\mi\learn\testing\text\modules\http.py", line 103, in assertequals
+    if (str(self.result_json[key]) == str(value)):
+KeyError: 'status'
+2020-01-27 20:02:52,308-INFO-PASS
+2020-01-27 20:02:52,353-INFO-PASS
+2020-01-27 20:02:52,398-INFO-PASS
+2020-01-27 20:02:52,443-INFO-PASS
+2020-01-27 20:02:52,488-INFO-PASS
+2020-01-27 20:02:52,533-INFO-PASS
+2020-01-27 20:02:52,578-INFO-PASS
+2020-01-27 20:02:52,628-ERROR-'status'
+Traceback (most recent call last):
+  File "H:\mi\learn\testing\text\modules\http.py", line 103, in assertequals
+    if (str(self.result_json[key]) == str(value)):
+KeyError: 'status'
+2020-01-27 20:02:52,723-INFO-PASS
+2020-01-27 20:02:52,863-INFO-PASS
+2020-01-27 20:02:52,918-INFO-PASS
+2020-01-27 20:02:52,963-INFO-PASS
+2020-01-27 20:02:53,013-INFO-PASS
+2020-01-27 20:02:53,153-INFO-PASS
+2020-01-27 20:02:53,303-INFO-PASS
+2020-01-27 21:43:08,113-INFO-PASS
+2020-01-27 21:43:08,173-INFO-PASS
+2020-01-27 21:43:08,240-INFO-PASS
+2020-01-27 21:43:08,300-INFO-PASS
+2020-01-27 21:43:08,360-INFO-PASS
+2020-01-27 21:43:08,420-INFO-PASS
+2020-01-27 21:43:08,615-INFO-PASS
+2020-01-27 21:43:08,675-INFO-PASS
+2020-01-27 21:43:08,730-INFO-PASS
+2020-01-27 21:43:08,785-INFO-PASS
+2020-01-27 21:43:08,845-INFO-PASS
+2020-01-27 21:43:08,905-INFO-PASS
+2020-01-27 21:43:09,020-INFO-PASS
+2020-01-27 21:43:09,075-INFO-PASS
+2020-01-27 21:43:09,140-INFO-PASS
+2020-01-27 21:43:09,277-ERROR-'status'
+Traceback (most recent call last):
+  File "H:/mi/learn/testing/text\modules\http.py", line 103, in assertequals
+    if (str(self.result_json[key]) == str(value)):
+KeyError: 'status'
+2020-01-27 21:43:09,497-INFO-PASS
+2020-01-27 21:43:09,557-ERROR-'status'
+Traceback (most recent call last):
+  File "H:/mi/learn/testing/text\modules\http.py", line 103, in assertequals
+    if (str(self.result_json[key]) == str(value)):
+KeyError: 'status'
+2020-01-27 21:43:09,687-INFO-FAIL
+2020-01-27 21:43:09,752-INFO-FAIL
+2020-01-27 21:43:10,117-INFO-PASS
+2020-01-27 21:43:10,187-INFO-PASS
+2020-01-27 21:43:10,247-INFO-PASS
+2020-01-27 21:43:10,302-INFO-PASS
+2020-01-27 21:43:10,362-INFO-PASS
+2020-01-27 21:43:10,417-ERROR-'status'
+Traceback (most recent call last):
+  File "H:/mi/learn/testing/text\modules\http.py", line 103, in assertequals
+    if (str(self.result_json[key]) == str(value)):
+KeyError: 'status'
+2020-01-27 21:43:10,552-INFO-PASS
+2020-01-27 21:43:10,607-ERROR-'status'
+Traceback (most recent call last):
+  File "H:/mi/learn/testing/text\modules\http.py", line 103, in assertequals
+    if (str(self.result_json[key]) == str(value)):
+KeyError: 'status'
+2020-01-27 21:43:10,717-INFO-PASS
+2020-01-27 21:43:10,777-INFO-PASS
+2020-01-27 21:43:10,847-INFO-PASS
+2020-01-27 21:43:10,909-INFO-PASS
+2020-01-27 21:43:10,979-INFO-PASS
+2020-01-27 21:43:11,064-INFO-PASS
+2020-01-27 21:43:11,126-INFO-PASS
+2020-01-27 21:43:11,186-ERROR-'status'
+Traceback (most recent call last):
+  File "H:/mi/learn/testing/text\modules\http.py", line 103, in assertequals
+    if (str(self.result_json[key]) == str(value)):
+KeyError: 'status'
+2020-01-27 21:43:11,306-INFO-PASS
+2020-01-27 21:43:11,498-INFO-PASS
+2020-01-27 21:43:11,558-INFO-PASS
+2020-01-27 21:43:11,678-INFO-PASS
+2020-01-27 21:43:11,738-INFO-PASS
+2020-01-27 21:43:11,943-INFO-PASS
+2020-01-27 21:43:12,153-INFO-PASS
+2020-01-27 21:45:28,277-INFO-PASS
+2020-01-27 21:45:28,322-INFO-PASS
+2020-01-27 21:45:28,362-INFO-PASS
+2020-01-27 21:45:28,407-INFO-PASS
+2020-01-27 21:45:28,452-INFO-PASS
+2020-01-27 21:45:28,502-INFO-PASS
+2020-01-27 21:45:28,592-INFO-PASS
+2020-01-27 21:45:28,637-INFO-PASS
+2020-01-27 21:45:28,682-INFO-PASS
+2020-01-27 21:45:28,727-INFO-PASS
+2020-01-27 21:45:28,767-INFO-PASS
+2020-01-27 21:45:28,812-INFO-PASS
+2020-01-27 21:45:28,912-INFO-PASS
+2020-01-27 21:45:28,962-INFO-PASS
+2020-01-27 21:45:29,002-INFO-PASS
+2020-01-27 21:45:29,117-ERROR-'status'
+Traceback (most recent call last):
+  File "H:\mi\learn\testing\text\modules\http.py", line 103, in assertequals
+    if (str(self.result_json[key]) == str(value)):
+KeyError: 'status'
+2020-01-27 21:45:29,207-INFO-PASS
+2020-01-27 21:45:29,277-ERROR-'status'
+Traceback (most recent call last):
+  File "H:\mi\learn\testing\text\modules\http.py", line 103, in assertequals
+    if (str(self.result_json[key]) == str(value)):
+KeyError: 'status'
+2020-01-27 21:45:29,367-INFO-FAIL
+2020-01-27 21:45:29,412-INFO-FAIL
+2020-01-27 21:45:29,457-INFO-PASS
+2020-01-27 21:45:29,507-INFO-PASS
+2020-01-27 21:45:29,552-INFO-PASS
+2020-01-27 21:45:29,597-INFO-PASS
+2020-01-27 21:45:29,642-INFO-PASS
+2020-01-27 21:45:29,692-ERROR-'status'
+Traceback (most recent call last):
+  File "H:\mi\learn\testing\text\modules\http.py", line 103, in assertequals
+    if (str(self.result_json[key]) == str(value)):
+KeyError: 'status'
+2020-01-27 21:45:29,782-INFO-PASS
+2020-01-27 21:45:29,837-ERROR-'status'
+Traceback (most recent call last):
+  File "H:\mi\learn\testing\text\modules\http.py", line 103, in assertequals
+    if (str(self.result_json[key]) == str(value)):
+KeyError: 'status'
+2020-01-27 21:45:30,247-INFO-PASS
+2020-01-27 21:45:30,297-INFO-PASS
+2020-01-27 21:45:30,352-INFO-PASS
+2020-01-27 21:45:30,397-INFO-PASS
+2020-01-27 21:45:30,447-INFO-PASS
+2020-01-27 21:45:30,492-INFO-PASS
+2020-01-27 21:45:30,537-INFO-PASS
+2020-01-27 21:45:30,582-ERROR-'status'
+Traceback (most recent call last):
+  File "H:\mi\learn\testing\text\modules\http.py", line 103, in assertequals
+    if (str(self.result_json[key]) == str(value)):
+KeyError: 'status'
+2020-01-27 21:45:30,672-INFO-PASS
+2020-01-27 21:45:30,812-INFO-PASS
+2020-01-27 21:45:30,857-INFO-PASS
+2020-01-27 21:45:30,902-INFO-PASS
+2020-01-27 21:45:30,947-INFO-PASS
+2020-01-27 21:45:31,087-INFO-PASS
+2020-01-27 21:45:31,222-INFO-PASS
+2020-01-27 21:45:53,054-INFO-PASS
+2020-01-27 21:45:53,114-INFO-PASS
+2020-01-27 21:45:53,209-INFO-PASS
+2020-01-27 21:45:53,259-INFO-PASS
+2020-01-27 21:45:53,314-INFO-PASS
+2020-01-27 21:45:53,369-INFO-PASS
+2020-01-27 21:45:53,484-INFO-PASS
+2020-01-27 21:45:53,534-INFO-PASS
+2020-01-27 21:45:53,589-INFO-PASS
+2020-01-27 21:45:53,644-INFO-PASS
+2020-01-27 21:45:53,699-INFO-PASS
+2020-01-27 21:45:53,754-INFO-PASS
+2020-01-27 21:45:53,864-INFO-PASS
+2020-01-27 21:45:53,924-INFO-PASS
+2020-01-27 21:45:53,981-INFO-PASS
+2020-01-27 21:45:54,091-ERROR-'status'
+Traceback (most recent call last):
+  File "H:/mi/learn/testing/text\modules\http.py", line 103, in assertequals
+    if (str(self.result_json[key]) == str(value)):
+KeyError: 'status'
+2020-01-27 21:45:54,191-INFO-PASS
+2020-01-27 21:45:54,251-ERROR-'status'
+Traceback (most recent call last):
+  File "H:/mi/learn/testing/text\modules\http.py", line 103, in assertequals
+    if (str(self.result_json[key]) == str(value)):
+KeyError: 'status'
+2020-01-27 21:45:54,351-INFO-FAIL
+2020-01-27 21:45:54,411-INFO-FAIL
+2020-01-27 21:45:54,466-INFO-PASS
+2020-01-27 21:45:54,526-INFO-PASS
+2020-01-27 21:45:54,581-INFO-PASS
+2020-01-27 21:45:54,636-INFO-PASS
+2020-01-27 21:45:54,686-INFO-PASS
+2020-01-27 21:45:54,741-ERROR-'status'
+Traceback (most recent call last):
+  File "H:/mi/learn/testing/text\modules\http.py", line 103, in assertequals
+    if (str(self.result_json[key]) == str(value)):
+KeyError: 'status'
+2020-01-27 21:45:54,836-INFO-PASS
+2020-01-27 21:45:54,906-ERROR-'status'
+Traceback (most recent call last):
+  File "H:/mi/learn/testing/text\modules\http.py", line 103, in assertequals
+    if (str(self.result_json[key]) == str(value)):
+KeyError: 'status'
+2020-01-27 21:45:55,011-INFO-PASS
+2020-01-27 21:45:55,071-INFO-PASS
+2020-01-27 21:45:55,131-INFO-PASS
+2020-01-27 21:45:55,186-INFO-PASS
+2020-01-27 21:45:55,246-INFO-PASS
+2020-01-27 21:45:55,306-INFO-PASS
+2020-01-27 21:45:55,361-INFO-PASS
+2020-01-27 21:45:55,416-ERROR-'status'
+Traceback (most recent call last):
+  File "H:/mi/learn/testing/text\modules\http.py", line 103, in assertequals
+    if (str(self.result_json[key]) == str(value)):
+KeyError: 'status'
+2020-01-27 21:45:55,526-INFO-PASS
+2020-01-27 21:45:55,696-INFO-PASS
+2020-01-27 21:45:55,756-INFO-PASS
+2020-01-27 21:45:55,836-INFO-PASS
+2020-01-27 21:45:55,896-INFO-PASS
+2020-01-27 21:45:56,073-INFO-PASS
+2020-01-27 21:45:56,248-INFO-PASS
+2020-01-27 21:53:16,767-INFO-PASS
+2020-01-27 21:53:16,832-INFO-PASS
+2020-01-27 21:53:17,147-INFO-PASS
+2020-01-27 21:53:17,192-INFO-PASS
+2020-01-27 21:53:17,242-INFO-PASS
+2020-01-27 21:53:17,282-INFO-PASS
+2020-01-27 21:53:17,382-INFO-PASS
+2020-01-27 21:53:17,427-INFO-PASS
+2020-01-27 21:53:17,472-INFO-PASS
+2020-01-27 21:53:17,512-INFO-PASS
+2020-01-27 21:53:17,557-INFO-PASS
+2020-01-27 21:53:17,607-INFO-PASS
+2020-01-27 21:53:17,702-INFO-PASS
+2020-01-27 21:53:17,747-INFO-PASS
+2020-01-27 21:53:17,792-INFO-PASS
+2020-01-27 21:53:17,892-ERROR-'status'
+Traceback (most recent call last):
+  File "H:\mi\learn\testing\text\modules\http.py", line 103, in assertequals
+    if (str(self.result_json[key]) == str(value)):
+KeyError: 'status'
+2020-01-27 21:53:17,982-INFO-PASS
+2020-01-27 21:53:18,037-ERROR-'status'
+Traceback (most recent call last):
+  File "H:\mi\learn\testing\text\modules\http.py", line 103, in assertequals
+    if (str(self.result_json[key]) == str(value)):
+KeyError: 'status'
+2020-01-27 21:53:18,137-INFO-FAIL
+2020-01-27 21:53:18,187-INFO-FAIL
+2020-01-27 21:53:18,232-INFO-PASS
+2020-01-27 21:53:18,282-INFO-PASS
+2020-01-27 21:53:18,332-INFO-PASS
+2020-01-27 21:53:18,392-INFO-PASS
+2020-01-27 21:53:18,437-INFO-PASS
+2020-01-27 21:53:18,482-ERROR-'status'
+Traceback (most recent call last):
+  File "H:\mi\learn\testing\text\modules\http.py", line 103, in assertequals
+    if (str(self.result_json[key]) == str(value)):
+KeyError: 'status'
+2020-01-27 21:53:18,572-INFO-PASS
+2020-01-27 21:53:18,622-ERROR-'status'
+Traceback (most recent call last):
+  File "H:\mi\learn\testing\text\modules\http.py", line 103, in assertequals
+    if (str(self.result_json[key]) == str(value)):
+KeyError: 'status'
+2020-01-27 21:53:18,727-INFO-PASS
+2020-01-27 21:53:18,777-INFO-PASS
+2020-01-27 21:53:18,827-INFO-PASS
+2020-01-27 21:53:18,872-INFO-PASS
+2020-01-27 21:53:18,927-INFO-PASS
+2020-01-27 21:53:18,972-INFO-PASS
+2020-01-27 21:53:19,017-INFO-PASS
+2020-01-27 21:53:19,067-ERROR-'status'
+Traceback (most recent call last):
+  File "H:\mi\learn\testing\text\modules\http.py", line 103, in assertequals
+    if (str(self.result_json[key]) == str(value)):
+KeyError: 'status'
+2020-01-27 21:53:19,172-INFO-PASS
+2020-01-27 21:53:19,332-INFO-PASS
+2020-01-27 21:53:19,392-INFO-PASS
+2020-01-27 21:53:19,442-INFO-PASS
+2020-01-27 21:53:19,492-INFO-PASS
+2020-01-27 21:53:19,637-INFO-PASS
+2020-01-27 21:53:19,792-INFO-PASS
+2020-01-27 22:21:07,823-INFO-PASS
+2020-01-27 22:21:07,868-INFO-PASS
+2020-01-27 22:21:07,918-INFO-PASS
+2020-01-27 22:21:07,963-INFO-PASS
+2020-01-27 22:21:08,008-INFO-PASS
+2020-01-27 22:21:08,048-INFO-PASS
+2020-01-27 22:21:08,143-INFO-PASS
+2020-01-27 22:21:08,188-INFO-PASS
+2020-01-27 22:21:08,233-INFO-PASS
+2020-01-27 22:21:08,278-INFO-PASS
+2020-01-27 22:21:08,323-INFO-PASS
+2020-01-27 22:21:08,368-INFO-PASS
+2020-01-27 22:21:08,463-INFO-PASS
+2020-01-27 22:21:08,508-INFO-PASS
+2020-01-27 22:21:08,548-INFO-PASS
+2020-01-27 22:21:08,643-ERROR-'status'
+Traceback (most recent call last):
+  File "H:\mi\learn\testing\text\modules\http.py", line 103, in assertequals
+    if (str(self.result_json[key]) == str(value)):
+KeyError: 'status'
+2020-01-27 22:21:08,733-INFO-PASS
+2020-01-27 22:21:08,788-ERROR-'status'
+Traceback (most recent call last):
+  File "H:\mi\learn\testing\text\modules\http.py", line 103, in assertequals
+    if (str(self.result_json[key]) == str(value)):
+KeyError: 'status'
+2020-01-27 22:21:08,878-INFO-FAIL
+2020-01-27 22:21:08,933-INFO-FAIL
+2020-01-27 22:21:08,978-INFO-PASS
+2020-01-27 22:21:09,043-INFO-PASS
+2020-01-27 22:21:09,093-INFO-PASS
+2020-01-27 22:21:09,138-INFO-PASS
+2020-01-27 22:21:09,188-INFO-PASS
+2020-01-27 22:21:09,238-ERROR-'status'
+Traceback (most recent call last):
+  File "H:\mi\learn\testing\text\modules\http.py", line 103, in assertequals
+    if (str(self.result_json[key]) == str(value)):
+KeyError: 'status'
+2020-01-27 22:21:09,333-INFO-PASS
+2020-01-27 22:21:09,388-ERROR-'status'
+Traceback (most recent call last):
+  File "H:\mi\learn\testing\text\modules\http.py", line 103, in assertequals
+    if (str(self.result_json[key]) == str(value)):
+KeyError: 'status'
+2020-01-27 22:21:09,483-INFO-PASS
+2020-01-27 22:21:09,538-INFO-PASS
+2020-01-27 22:21:09,588-INFO-PASS
+2020-01-27 22:21:09,638-INFO-PASS
+2020-01-27 22:21:09,683-INFO-PASS
+2020-01-27 22:21:09,728-INFO-PASS
+2020-01-27 22:21:09,844-INFO-PASS
+2020-01-27 22:21:09,895-ERROR-'status'
+Traceback (most recent call last):
+  File "H:\mi\learn\testing\text\modules\http.py", line 103, in assertequals
+    if (str(self.result_json[key]) == str(value)):
+KeyError: 'status'
+2020-01-27 22:21:09,980-INFO-PASS
+2020-01-27 22:21:10,125-INFO-PASS
+2020-01-27 22:21:10,170-INFO-PASS
+2020-01-27 22:21:10,220-INFO-PASS
+2020-01-27 22:21:10,270-INFO-PASS
+2020-01-27 22:21:10,400-INFO-PASS
+2020-01-27 22:21:10,530-INFO-PASS
+2020-01-27 22:21:10,610-INFO-{'runtype': 'HTTP', 'title': 'HTTP接口自动化报告', 'starttime': '', 'endtime': '', 'casecount': '119', 'passrate': '94.11', 'status': 'Fail'}
+2020-01-27 22:21:10,615-INFO-{'mysqluser': 'Tester', 'mysqlpassword': '123456', 'mysqlport': '3306', 'mysqlhost': '112.74.191.10', 'mysqldb': 'test_project', 'mysqlcharset': 'utf8', 'mail': '943820638@qq.com', 'pwd': 'uwsozztwijgpbdee', 'mailto': '943820638@qq.com', 'mailcopy': '2274304947@qq.com,1137451353@qq.com', 'mailtitle': '接口自动化测试报告', 'mail_encoding': 'utf8', 'mailtxt': '<html><style type="text/css">body{ background:#ffffff; margin:0 auto; padding:0; text-align:left; font-size:13px; font-family: "微软雅黑","宋体";}table{ font-size:13px; font-family: "微软雅黑","宋体";}.table_c{border:1px solid #ccc;border-collapse:collapse; }.table_c td{border:1px solid #ccc; border-collapse:collapse;}.table_b{border:1px solid #666;border-collapse:collapse; }.table_b td{ border-collapse:collapse; border:1px solid #ccc;}.table_b th{color:#fff; background:#666;}a:link{ color:#3366cc; font-weight:normal; }a:visited { color: #3366cc;}a:hover{ color:#000; }a:active { color:#3366cc; }td{ line-height:20px;}.case-group {border: 1px solid transparent;border-color: #ddd;line-height:5px;}.case-group a:link,a:hover{color:#0092fa;text-decoration:none;}.group-模拟器测试用例{margin: 10px;}.case-模拟器测试用例{height: 30px;}.case-case {border-top: 1px solid;border-color: #ddd;padding: 13px;word-wrap: break-word;}.statuclass{float:right;right:5%;position:relative;}.countclass{float:right;right:20%;position:relative;}.passclass{float:right;right:30%;position:relative;}.casename{position:relative;left:3%;}.righta{float:right;font-size:20px;}.case-file{border: 2px #8cbfff solid;border-radius: 5px;}</style><table width="650" ="0" cellspacing="0" align="center" cellpadding="0" style="border-radius: 15px;background-color: #f6f5f5;border: 1px #ffe4da solid;"><tbody><tr><td><table width="650" border="0" cellpadding="0" cellspacing="0" style="border-radius: 15px 15px 0 0;background-color: #ffffff;"><tbody><tr><td width="137"><img src="http://112.74.191.10/wp-content/uploads/2018/07/logo_middle.png" width="137" height="80"></td><td align="left" style="font-size: 13px;color: #999999;padding-top: 26px;right: 10px;position: relative;top: -10px;text-align:right;"><h style="font-size: 20px;font-family: cursive;line-height: 30px;color: #8cbfff;">Hi All ！ </h><br>此为来自特斯汀学院自动化小组测试邮件，请不要直接回复。</td></tr></tbody></table><br><table width="592" border="0" cellspacing="0" cellpadding="0" align="center"><tbody><tr><td style="font-size: 14px; color: 333333; font-weight: bold; padding-bottom:15px;">测试报告：<font color="ff6600">自动化测试用例</font></td></tr><tr><td style="border: 2px #8cbfff solid;border-radius: 5px;"><table width="572" border="0" align="center" class="table_c" style="border-collapse:collapse;margin: 10px;"><tbody><tr><td width="100" height="28" align="center" bgcolor="#ffe9e9" style="border:1px solid #ccc;">测试内容</td><td colspan="3" bgcolor="#FFFFFF" align="center" style="border:1px solid #ccc;"><h4 style="line-height: 1px;margin:0;">title</h4></td></tr><tr><td width="100" height="28" align="center" bgcolor="#ffe9e9" style="border:1px solid #ccc;">测试状态</td><td height="28" width="150" bgcolor="#FFFFFF" align="center" style="border:1px solid #ccc;"><font style="font-weight: bold;font-size: 14px;color: #00d800;">status</font></td><td width="100" height="28" align="center" bgcolor="#ffe9e9" style="border:1px solid #ccc;">类型</td><td height="28" bgcolor="#FFFFFF" align="center" style="border:1px solid #ccc;">runtype</td></tr><tr><td width="80" height="28" align="center" bgcolor="#ffe9e9" style="border:1px solid #ccc;">通过率</td><td height="28" bgcolor="#FFFFFF" align="center" style="border:1px solid #ccc;">passrate</td><td width="100" height="28" align="center" bgcolor="#ffe9e9" style="border:1px solid #ccc;">开始时间</td><td height="28" bgcolor="#FFFFFF" align="center" style="border:1px solid #ccc;">starttime</td></tr><tr><td width="80" height="28" align="center" bgcolor="#ffe9e9" style="border:1px solid #ccc;">总用例数</td><td height="28" bgcolor="#FFFFFF" align="center" style="border:1px solid #ccc;">casecount</td><td width="80" height="28" align="center" bgcolor="#ffe9e9" style="border:1px solid #ccc;">结束时间</td><td height="28" bgcolor="#FFFFFF" align="center" style="border:1px solid #ccc;">endtime</td></tr></tbody></table></td></tr><tr><td><table width="592" border="0" align="center" cellspacing="0" cellpadding="0" style="margin: 24px 0 10px 0;border-bottom: #e4e4e4 1px solid;"><tbody><tr><td style="font-size: 13px; line-height: 20px; color: #999999; padding-top: 6px;">如果您对本次邮件结果有任何疑问，请联系 <a href="http://wpa.qq.com/msgrd?v=3&uin=1052949192&site=qq&menu=yes" target="_blank" color="#666666">William：1052949192</a></a> 反馈。</td></tr></tbody></table></td></tr><td><table width="592" border="0" align="center" cellspacing="0" cellpadding="0" style="margin: 24px 0 16px 0;border-top: #e4e4e4 1px solid;"><tbody><tr><td style="font-size: 13px; line-height: 20px; color: #999999; padding-top: 6px;">感谢您的查阅。<font color="#666666">All Rights Reserved by 特斯汀 College. Designed and Developed by Mr. William.</font></a></td></tr></tbody></table></td></tr></tbody></table></td></tr></tbody></table></body></html>'}
+2020-01-27 22:21:10,620-DEBUG-{'mysqluser': 'Tester', 'mysqlpassword': '123456', 'mysqlport': '3306', 'mysqlhost': '112.74.191.10', 'mysqldb': 'test_project', 'mysqlcharset': 'utf8', 'mail': '943820638@qq.com', 'pwd': 'uwsozztwijgpbdee', 'mailto': '943820638@qq.com', 'mailcopy': '2274304947@qq.com,1137451353@qq.com', 'mailtitle': '接口自动化测试报告', 'mail_encoding': 'utf8', 'mailtxt': '<html><style type="text/css">body{ background:#ffffff; margin:0 auto; padding:0; text-align:left; font-size:13px; font-family: "微软雅黑","宋体";}table{ font-size:13px; font-family: "微软雅黑","宋体";}.table_c{border:1px solid #ccc;border-collapse:collapse; }.table_c td{border:1px solid #ccc; border-collapse:collapse;}.table_b{border:1px solid #666;border-collapse:collapse; }.table_b td{ border-collapse:collapse; border:1px solid #ccc;}.table_b th{color:#fff; background:#666;}a:link{ color:#3366cc; font-weight:normal; }a:visited { color: #3366cc;}a:hover{ color:#000; }a:active { color:#3366cc; }td{ line-height:20px;}.case-group {border: 1px solid transparent;border-color: #ddd;line-height:5px;}.case-group a:link,a:hover{color:#0092fa;text-decoration:none;}.group-模拟器测试用例{margin: 10px;}.case-模拟器测试用例{height: 30px;}.case-case {border-top: 1px solid;border-color: #ddd;padding: 13px;word-wrap: break-word;}.statuclass{float:right;right:5%;position:relative;}.countclass{float:right;right:20%;position:relative;}.passclass{float:right;right:30%;position:relative;}.casename{position:relative;left:3%;}.righta{float:right;font-size:20px;}.case-file{border: 2px #8cbfff solid;border-radius: 5px;}</style><table width="650" ="0" cellspacing="0" align="center" cellpadding="0" style="border-radius: 15px;background-color: #f6f5f5;border: 1px #ffe4da solid;"><tbody><tr><td><table width="650" border="0" cellpadding="0" cellspacing="0" style="border-radius: 15px 15px 0 0;background-color: #ffffff;"><tbody><tr><td width="137"><img src="http://112.74.191.10/wp-content/uploads/2018/07/logo_middle.png" width="137" height="80"></td><td align="left" style="font-size: 13px;color: #999999;padding-top: 26px;right: 10px;position: relative;top: -10px;text-align:right;"><h style="font-size: 20px;font-family: cursive;line-height: 30px;color: #8cbfff;">Hi All ！ </h><br>此为来自特斯汀学院自动化小组测试邮件，请不要直接回复。</td></tr></tbody></table><br><table width="592" border="0" cellspacing="0" cellpadding="0" align="center"><tbody><tr><td style="font-size: 14px; color: 333333; font-weight: bold; padding-bottom:15px;">测试报告：<font color="ff6600">自动化测试用例</font></td></tr><tr><td style="border: 2px #8cbfff solid;border-radius: 5px;"><table width="572" border="0" align="center" class="table_c" style="border-collapse:collapse;margin: 10px;"><tbody><tr><td width="100" height="28" align="center" bgcolor="#ffe9e9" style="border:1px solid #ccc;">测试内容</td><td colspan="3" bgcolor="#FFFFFF" align="center" style="border:1px solid #ccc;"><h4 style="line-height: 1px;margin:0;">title</h4></td></tr><tr><td width="100" height="28" align="center" bgcolor="#ffe9e9" style="border:1px solid #ccc;">测试状态</td><td height="28" width="150" bgcolor="#FFFFFF" align="center" style="border:1px solid #ccc;"><font style="font-weight: bold;font-size: 14px;color: #00d800;">status</font></td><td width="100" height="28" align="center" bgcolor="#ffe9e9" style="border:1px solid #ccc;">类型</td><td height="28" bgcolor="#FFFFFF" align="center" style="border:1px solid #ccc;">runtype</td></tr><tr><td width="80" height="28" align="center" bgcolor="#ffe9e9" style="border:1px solid #ccc;">通过率</td><td height="28" bgcolor="#FFFFFF" align="center" style="border:1px solid #ccc;">passrate</td><td width="100" height="28" align="center" bgcolor="#ffe9e9" style="border:1px solid #ccc;">开始时间</td><td height="28" bgcolor="#FFFFFF" align="center" style="border:1px solid #ccc;">starttime</td></tr><tr><td width="80" height="28" align="center" bgcolor="#ffe9e9" style="border:1px solid #ccc;">总用例数</td><td height="28" bgcolor="#FFFFFF" align="center" style="border:1px solid #ccc;">casecount</td><td width="80" height="28" align="center" bgcolor="#ffe9e9" style="border:1px solid #ccc;">结束时间</td><td height="28" bgcolor="#FFFFFF" align="center" style="border:1px solid #ccc;">endtime</td></tr></tbody></table></td></tr><tr><td><table width="592" border="0" align="center" cellspacing="0" cellpadding="0" style="margin: 24px 0 10px 0;border-bottom: #e4e4e4 1px solid;"><tbody><tr><td style="font-size: 13px; line-height: 20px; color: #999999; padding-top: 6px;">如果您对本次邮件结果有任何疑问，请联系 <a href="http://wpa.qq.com/msgrd?v=3&uin=1052949192&site=qq&menu=yes" target="_blank" color="#666666">William：1052949192</a></a> 反馈。</td></tr></tbody></table></td></tr><td><table width="592" border="0" align="center" cellspacing="0" cellpadding="0" style="margin: 24px 0 16px 0;border-top: #e4e4e4 1px solid;"><tbody><tr><td style="font-size: 13px; line-height: 20px; color: #999999; padding-top: 6px;">感谢您的查阅。<font color="#666666">All Rights Reserved by 特斯汀 College. Designed and Developed by Mr. William.</font></a></td></tr></tbody></table></td></tr></tbody></table></td></tr></tbody></table></body></html>'}
+2020-01-27 22:21:11,890-DEBUG-{'from': '943820638@qq.com', 'username': '943820638@qq.com', 'hostname': 'smtp.qq.com', 'password': 'uwsozztwijgpbdee', 'to': ['943820638@qq.com'], 'cc': ['2274304947@qq.com', '1137451353@qq.com'], 'mail_subject': '接口自动化测试报告', 'mail_encoding': 'utf8', 'filepaths': [], 'filenames': []}
+2020-01-27 22:21:11,890-DEBUG-<html><style type="text/css">body{ background:#ffffff; margin:0 auto; padding:0; text-align:left; font-size:13px; font-family: "微软雅黑","宋体";}table{ font-size:13px; font-family: "微软雅黑","宋体";}.table_c{border:1px solid #ccc;border-collapse:collapse; }.table_c td{border:1px solid #ccc; border-collapse:collapse;}.table_b{border:1px solid #666;border-collapse:collapse; }.table_b td{ border-collapse:collapse; border:1px solid #ccc;}.table_b th{color:#fff; background:#666;}a:link{ color:#3366cc; font-weight:normal; }a:visited { color: #3366cc;}a:hover{ color:#000; }a:active { color:#3366cc; }td{ line-height:20px;}.case-group {border: 1px solid transparent;border-color: #ddd;line-height:5px;}.case-group a:link,a:hover{color:#0092fa;text-decoration:none;}.group-模拟器测试用例{margin: 10px;}.case-模拟器测试用例{height: 30px;}.case-case {border-top: 1px solid;border-color: #ddd;padding: 13px;word-wrap: break-word;}.statuclass{float:right;right:5%;position:relative;}.countclass{float:right;right:20%;position:relative;}.passclass{float:right;right:30%;position:relative;}.casename{position:relative;left:3%;}.righta{float:right;font-size:20px;}.case-file{border: 2px #8cbfff solid;border-radius: 5px;}</style><table width="650" ="0" cellspacing="0" align="center" cellpadding="0" style="border-radius: 15px;background-color: #f6f5f5;border: 1px #ffe4da solid;"><tbody><tr><td><table width="650" border="0" cellpadding="0" cellspacing="0" style="border-radius: 15px 15px 0 0;background-color: #ffffff;"><tbody><tr><td width="137"><img src="http://112.74.191.10/wp-content/uploads/2018/07/logo_middle.png" width="137" height="80"></td><td align="left" style="font-size: 13px;color: #999999;padding-top: 26px;right: 10px;position: relative;top: -10px;text-align:right;"><h style="font-size: 20px;font-family: cursive;line-height: 30px;color: #8cbfff;">Hi All ！ </h><br>此为来自特斯汀学院自动化小组测试邮件，请不要直接回复。</td></tr></tbody></table><br><table width="592" border="0" cellspacing="0" cellpadding="0" align="center"><tbody><tr><td style="font-size: 14px; color: 333333; font-weight: bold; padding-bottom:15px;">测试报告：<font color="ff6600">自动化测试用例</font></td></tr><tr><td style="border: 2px #8cbfff solid;border-radius: 5px;"><table width="572" border="0" align="center" class="table_c" style="border-collapse:collapse;margin: 10px;"><tbody><tr><td width="100" height="28" align="center" bgcolor="#ffe9e9" style="border:1px solid #ccc;">测试内容</td><td colspan="3" bgcolor="#FFFFFF" align="center" style="border:1px solid #ccc;"><h4 style="line-height: 1px;margin:0;">HTTP接口自动化报告</h4></td></tr><tr><td width="100" height="28" align="center" bgcolor="#ffe9e9" style="border:1px solid #ccc;">测试状态</td><td height="28" width="150" bgcolor="#FFFFFF" align="center" style="border:1px solid #ccc;"><font style="font-weight: bold;font-size: 14px;color: #00d800;">Fail</font></td><td width="100" height="28" align="center" bgcolor="#ffe9e9" style="border:1px solid #ccc;">类型</td><td height="28" bgcolor="#FFFFFF" align="center" style="border:1px solid #ccc;">HTTP</td></tr><tr><td width="80" height="28" align="center" bgcolor="#ffe9e9" style="border:1px solid #ccc;">通过率</td><td height="28" bgcolor="#FFFFFF" align="center" style="border:1px solid #ccc;">94.11</td><td width="100" height="28" align="center" bgcolor="#ffe9e9" style="border:1px solid #ccc;">开始时间</td><td height="28" bgcolor="#FFFFFF" align="center" style="border:1px solid #ccc;"></td></tr><tr><td width="80" height="28" align="center" bgcolor="#ffe9e9" style="border:1px solid #ccc;">总用例数</td><td height="28" bgcolor="#FFFFFF" align="center" style="border:1px solid #ccc;">119</td><td width="80" height="28" align="center" bgcolor="#ffe9e9" style="border:1px solid #ccc;">结束时间</td><td height="28" bgcolor="#FFFFFF" align="center" style="border:1px solid #ccc;"></td></tr></tbody></table></td></tr><tr><td><table width="592" border="0" align="center" cellspacing="0" cellpadding="0" style="margin: 24px 0 10px 0;border-bottom: #e4e4e4 1px solid;"><tbody><tr><td style="font-size: 13px; line-height: 20px; color: #999999; padding-top: 6px;">如果您对本次邮件结果有任何疑问，请联系 <a href="http://wpa.qq.com/msgrd?v=3&uin=1052949192&site=qq&menu=yes" target="_blank" color="#666666">William：1052949192</a></a> 反馈。</td></tr></tbody></table></td></tr><td><table width="592" border="0" align="center" cellspacing="0" cellpadding="0" style="margin: 24px 0 16px 0;border-top: #e4e4e4 1px solid;"><tbody><tr><td style="font-size: 13px; line-height: 20px; color: #999999; padding-top: 6px;">感谢您的查阅。<font color="#666666">All Rights Reserved by 特斯汀 College. Designed and Developed by Mr. William.</font></a></td></tr></tbody></table></td></tr></tbody></table></td></tr></tbody></table></body></html>
+2020-01-27 22:21:13,870-INFO-邮件发送成功
+2020-01-27 22:51:45,216-INFO-PASS
+2020-01-27 22:51:45,341-INFO-PASS
+2020-01-27 22:51:45,386-INFO-PASS
+2020-01-27 22:51:45,431-INFO-PASS
+2020-01-27 22:51:45,476-INFO-PASS
+2020-01-27 22:51:45,521-INFO-PASS
+2020-01-27 22:51:45,611-INFO-PASS
+2020-01-27 22:51:45,656-INFO-PASS
+2020-01-27 22:51:45,706-INFO-PASS
+2020-01-27 22:51:45,756-INFO-PASS
+2020-01-27 22:51:45,801-INFO-PASS
+2020-01-27 22:51:45,846-INFO-PASS
+2020-01-27 22:51:45,941-INFO-PASS
+2020-01-27 22:51:45,991-INFO-PASS
+2020-01-27 22:51:46,036-INFO-PASS
+2020-01-27 22:51:46,141-ERROR-'status'
+Traceback (most recent call last):
+  File "H:\mi\learn\testing\text\modules\http.py", line 103, in assertequals
+    if (str(self.result_json[key]) == str(value)):
+KeyError: 'status'
+2020-01-27 22:51:46,331-INFO-PASS
+2020-01-27 22:51:46,391-ERROR-'status'
+Traceback (most recent call last):
+  File "H:\mi\learn\testing\text\modules\http.py", line 103, in assertequals
+    if (str(self.result_json[key]) == str(value)):
+KeyError: 'status'
+2020-01-27 22:51:46,481-INFO-FAIL
+2020-01-27 22:51:46,531-INFO-FAIL
+2020-01-27 22:51:46,571-INFO-PASS
+2020-01-27 22:51:46,621-INFO-PASS
+2020-01-27 22:51:46,671-INFO-PASS
+2020-01-27 22:51:46,716-INFO-PASS
+2020-01-27 22:51:46,761-INFO-PASS
+2020-01-27 22:51:46,816-ERROR-'status'
+Traceback (most recent call last):
+  File "H:\mi\learn\testing\text\modules\http.py", line 103, in assertequals
+    if (str(self.result_json[key]) == str(value)):
+KeyError: 'status'
+2020-01-27 22:51:46,906-INFO-PASS
+2020-01-27 22:51:46,966-ERROR-'status'
+Traceback (most recent call last):
+  File "H:\mi\learn\testing\text\modules\http.py", line 103, in assertequals
+    if (str(self.result_json[key]) == str(value)):
+KeyError: 'status'
+2020-01-27 22:51:47,061-INFO-PASS
+2020-01-27 22:51:47,111-INFO-PASS
+2020-01-27 22:51:47,161-INFO-PASS
+2020-01-27 22:51:47,221-INFO-PASS
+2020-01-27 22:51:47,271-INFO-PASS
+2020-01-27 22:51:47,321-INFO-PASS
+2020-01-27 22:51:47,366-INFO-PASS
+2020-01-27 22:51:47,421-ERROR-'status'
+Traceback (most recent call last):
+  File "H:\mi\learn\testing\text\modules\http.py", line 103, in assertequals
+    if (str(self.result_json[key]) == str(value)):
+KeyError: 'status'
+2020-01-27 22:51:47,511-INFO-PASS
+2020-01-27 22:51:47,641-INFO-PASS
+2020-01-27 22:51:47,691-INFO-PASS
+2020-01-27 22:51:47,741-INFO-PASS
+2020-01-27 22:51:47,791-INFO-PASS
+2020-01-27 22:51:47,936-INFO-PASS
+2020-01-27 22:51:48,081-INFO-PASS
+2020-01-27 22:51:48,206-INFO-{'runtype': 'HTTP', 'title': 'HTTP接口自动化报告', 'starttime': '', 'endtime': '', 'casecount': '119', 'passrate': '94.11', 'status': 'Fail'}
+2020-01-27 22:51:48,211-INFO-{'mysqluser': 'Tester', 'mysqlpassword': '123456', 'mysqlport': '3306', 'mysqlhost': '112.74.191.10', 'mysqldb': 'test_project', 'mysqlcharset': 'utf8', 'mail': '943820638@qq.com', 'pwd': 'uwsozztwijgpbdee', 'mailto': '943820638@qq.com', 'mailcopy': '2274304947@qq.com,1137451353@qq.com', 'mailtitle': '接口自动化测试报告', 'mail_encoding': 'utf8', 'mailtxt': '<html><style type="text/css">body{ background:#ffffff; margin:0 auto; padding:0; text-align:left; font-size:13px; font-family: "微软雅黑","宋体";}table{ font-size:13px; font-family: "微软雅黑","宋体";}.table_c{border:1px solid #ccc;border-collapse:collapse; }.table_c td{border:1px solid #ccc; border-collapse:collapse;}.table_b{border:1px solid #666;border-collapse:collapse; }.table_b td{ border-collapse:collapse; border:1px solid #ccc;}.table_b th{color:#fff; background:#666;}a:link{ color:#3366cc; font-weight:normal; }a:visited { color: #3366cc;}a:hover{ color:#000; }a:active { color:#3366cc; }td{ line-height:20px;}.case-group {border: 1px solid transparent;border-color: #ddd;line-height:5px;}.case-group a:link,a:hover{color:#0092fa;text-decoration:none;}.group-模拟器测试用例{margin: 10px;}.case-模拟器测试用例{height: 30px;}.case-case {border-top: 1px solid;border-color: #ddd;padding: 13px;word-wrap: break-word;}.statuclass{float:right;right:5%;position:relative;}.countclass{float:right;right:20%;position:relative;}.passclass{float:right;right:30%;position:relative;}.casename{position:relative;left:3%;}.righta{float:right;font-size:20px;}.case-file{border: 2px #8cbfff solid;border-radius: 5px;}</style><table width="650" ="0" cellspacing="0" align="center" cellpadding="0" style="border-radius: 15px;background-color: #f6f5f5;border: 1px #ffe4da solid;"><tbody><tr><td><table width="650" border="0" cellpadding="0" cellspacing="0" style="border-radius: 15px 15px 0 0;background-color: #ffffff;"><tbody><tr><td width="137"><img src="http://112.74.191.10/wp-content/uploads/2018/07/logo_middle.png" width="137" height="80"></td><td align="left" style="font-size: 13px;color: #999999;padding-top: 26px;right: 10px;position: relative;top: -10px;text-align:right;"><h style="font-size: 20px;font-family: cursive;line-height: 30px;color: #8cbfff;">Hi All ！ </h><br>此为来自特斯汀学院自动化小组测试邮件，请不要直接回复。</td></tr></tbody></table><br><table width="592" border="0" cellspacing="0" cellpadding="0" align="center"><tbody><tr><td style="font-size: 14px; color: 333333; font-weight: bold; padding-bottom:15px;">测试报告：<font color="ff6600">自动化测试用例</font></td></tr><tr><td style="border: 2px #8cbfff solid;border-radius: 5px;"><table width="572" border="0" align="center" class="table_c" style="border-collapse:collapse;margin: 10px;"><tbody><tr><td width="100" height="28" align="center" bgcolor="#ffe9e9" style="border:1px solid #ccc;">测试内容</td><td colspan="3" bgcolor="#FFFFFF" align="center" style="border:1px solid #ccc;"><h4 style="line-height: 1px;margin:0;">title</h4></td></tr><tr><td width="100" height="28" align="center" bgcolor="#ffe9e9" style="border:1px solid #ccc;">测试状态</td><td height="28" width="150" bgcolor="#FFFFFF" align="center" style="border:1px solid #ccc;"><font style="font-weight: bold;font-size: 14px;color: #00d800;">status</font></td><td width="100" height="28" align="center" bgcolor="#ffe9e9" style="border:1px solid #ccc;">类型</td><td height="28" bgcolor="#FFFFFF" align="center" style="border:1px solid #ccc;">runtype</td></tr><tr><td width="80" height="28" align="center" bgcolor="#ffe9e9" style="border:1px solid #ccc;">通过率</td><td height="28" bgcolor="#FFFFFF" align="center" style="border:1px solid #ccc;">passrate</td><td width="100" height="28" align="center" bgcolor="#ffe9e9" style="border:1px solid #ccc;">开始时间</td><td height="28" bgcolor="#FFFFFF" align="center" style="border:1px solid #ccc;">starttime</td></tr><tr><td width="80" height="28" align="center" bgcolor="#ffe9e9" style="border:1px solid #ccc;">总用例数</td><td height="28" bgcolor="#FFFFFF" align="center" style="border:1px solid #ccc;">casecount</td><td width="80" height="28" align="center" bgcolor="#ffe9e9" style="border:1px solid #ccc;">结束时间</td><td height="28" bgcolor="#FFFFFF" align="center" style="border:1px solid #ccc;">endtime</td></tr></tbody></table></td></tr><tr><td><table width="592" border="0" align="center" cellspacing="0" cellpadding="0" style="margin: 24px 0 10px 0;border-bottom: #e4e4e4 1px solid;"><tbody><tr><td style="font-size: 13px; line-height: 20px; color: #999999; padding-top: 6px;">如果您对本次邮件结果有任何疑问，请联系 <a href="http://wpa.qq.com/msgrd?v=3&uin=1052949192&site=qq&menu=yes" target="_blank" color="#666666">William：1052949192</a></a> 反馈。</td></tr></tbody></table></td></tr><td><table width="592" border="0" align="center" cellspacing="0" cellpadding="0" style="margin: 24px 0 16px 0;border-top: #e4e4e4 1px solid;"><tbody><tr><td style="font-size: 13px; line-height: 20px; color: #999999; padding-top: 6px;">感谢您的查阅。<font color="#666666">All Rights Reserved by 特斯汀 College. Designed and Developed by Mr. William.</font></a></td></tr></tbody></table></td></tr></tbody></table></td></tr></tbody></table></body></html>'}
+2020-01-27 22:52:24,515-INFO-PASS
+2020-01-27 22:52:24,565-INFO-PASS
+2020-01-27 22:52:24,615-INFO-PASS
+2020-01-27 22:52:24,665-INFO-PASS
+2020-01-27 22:52:24,710-INFO-PASS
+2020-01-27 22:52:24,755-INFO-PASS
+2020-01-27 22:52:24,850-INFO-PASS
+2020-01-27 22:52:24,895-INFO-PASS
+2020-01-27 22:52:24,945-INFO-PASS
+2020-01-27 22:52:25,000-INFO-PASS
+2020-01-27 22:52:25,050-INFO-PASS
+2020-01-27 22:52:25,105-INFO-PASS
+2020-01-27 22:52:25,195-INFO-PASS
+2020-01-27 22:52:25,240-INFO-PASS
+2020-01-27 22:52:25,285-INFO-PASS
+2020-01-27 22:52:25,420-ERROR-'status'
+Traceback (most recent call last):
+  File "H:\mi\learn\testing\text\modules\http.py", line 103, in assertequals
+    if (str(self.result_json[key]) == str(value)):
+KeyError: 'status'
+2020-01-27 22:52:25,515-INFO-PASS
+2020-01-27 22:52:25,570-ERROR-'status'
+Traceback (most recent call last):
+  File "H:\mi\learn\testing\text\modules\http.py", line 103, in assertequals
+    if (str(self.result_json[key]) == str(value)):
+KeyError: 'status'
+2020-01-27 22:52:25,665-INFO-FAIL
+2020-01-27 22:52:25,715-INFO-FAIL
+2020-01-27 22:52:25,760-INFO-PASS
+2020-01-27 22:52:25,820-INFO-PASS
+2020-01-27 22:52:25,870-INFO-PASS
+2020-01-27 22:52:25,925-INFO-PASS
+2020-01-27 22:52:25,975-INFO-PASS
+2020-01-27 22:52:26,025-ERROR-'status'
+Traceback (most recent call last):
+  File "H:\mi\learn\testing\text\modules\http.py", line 103, in assertequals
+    if (str(self.result_json[key]) == str(value)):
+KeyError: 'status'
+2020-01-27 22:52:26,110-INFO-PASS
+2020-01-27 22:52:26,165-ERROR-'status'
+Traceback (most recent call last):
+  File "H:\mi\learn\testing\text\modules\http.py", line 103, in assertequals
+    if (str(self.result_json[key]) == str(value)):
+KeyError: 'status'
+2020-01-27 22:52:26,255-INFO-PASS
+2020-01-27 22:52:26,305-INFO-PASS
+2020-01-27 22:52:26,350-INFO-PASS
+2020-01-27 22:52:26,400-INFO-PASS
+2020-01-27 22:52:26,450-INFO-PASS
+2020-01-27 22:52:26,495-INFO-PASS
+2020-01-27 22:52:26,540-INFO-PASS
+2020-01-27 22:52:26,605-ERROR-'status'
+Traceback (most recent call last):
+  File "H:\mi\learn\testing\text\modules\http.py", line 103, in assertequals
+    if (str(self.result_json[key]) == str(value)):
+KeyError: 'status'
+2020-01-27 22:52:26,695-INFO-PASS
+2020-01-27 22:52:26,840-INFO-PASS
+2020-01-27 22:52:26,890-INFO-PASS
+2020-01-27 22:52:26,940-INFO-PASS
+2020-01-27 22:52:26,990-INFO-PASS
+2020-01-27 22:52:27,130-INFO-PASS
+2020-01-27 22:52:27,270-INFO-PASS
+2020-01-27 22:52:27,350-INFO-{'runtype': 'HTTP', 'title': 'HTTP接口自动化报告', 'starttime': '', 'endtime': '', 'casecount': '119', 'passrate': '94.11', 'status': 'Fail'}
+2020-01-27 22:52:27,350-INFO-{'mysqluser': 'Tester', 'mysqlpassword': '123456', 'mysqlport': '3306', 'mysqlhost': '112.74.191.10', 'mysqldb': 'test_project', 'mysqlcharset': 'utf8', 'mail': '943820638@qq.com', 'pwd': 'uwsozztwijgpbdee', 'mailto': '943820638@qq.com', 'mailcopy': '2274304947@qq.com,1137451353@qq.com', 'mailtitle': '接口自动化测试报告', 'mail_encoding': 'utf8', 'mailtxt': '<html><style type="text/css">body{ background:#ffffff; margin:0 auto; padding:0; text-align:left; font-size:13px; font-family: "微软雅黑","宋体";}table{ font-size:13px; font-family: "微软雅黑","宋体";}.table_c{border:1px solid #ccc;border-collapse:collapse; }.table_c td{border:1px solid #ccc; border-collapse:collapse;}.table_b{border:1px solid #666;border-collapse:collapse; }.table_b td{ border-collapse:collapse; border:1px solid #ccc;}.table_b th{color:#fff; background:#666;}a:link{ color:#3366cc; font-weight:normal; }a:visited { color: #3366cc;}a:hover{ color:#000; }a:active { color:#3366cc; }td{ line-height:20px;}.case-group {border: 1px solid transparent;border-color: #ddd;line-height:5px;}.case-group a:link,a:hover{color:#0092fa;text-decoration:none;}.group-模拟器测试用例{margin: 10px;}.case-模拟器测试用例{height: 30px;}.case-case {border-top: 1px solid;border-color: #ddd;padding: 13px;word-wrap: break-word;}.statuclass{float:right;right:5%;position:relative;}.countclass{float:right;right:20%;position:relative;}.passclass{float:right;right:30%;position:relative;}.casename{position:relative;left:3%;}.righta{float:right;font-size:20px;}.case-file{border: 2px #8cbfff solid;border-radius: 5px;}</style><table width="650" ="0" cellspacing="0" align="center" cellpadding="0" style="border-radius: 15px;background-color: #f6f5f5;border: 1px #ffe4da solid;"><tbody><tr><td><table width="650" border="0" cellpadding="0" cellspacing="0" style="border-radius: 15px 15px 0 0;background-color: #ffffff;"><tbody><tr><td width="137"><img src="http://112.74.191.10/wp-content/uploads/2018/07/logo_middle.png" width="137" height="80"></td><td align="left" style="font-size: 13px;color: #999999;padding-top: 26px;right: 10px;position: relative;top: -10px;text-align:right;"><h style="font-size: 20px;font-family: cursive;line-height: 30px;color: #8cbfff;">Hi All ！ </h><br>此为来自特斯汀学院自动化小组测试邮件，请不要直接回复。</td></tr></tbody></table><br><table width="592" border="0" cellspacing="0" cellpadding="0" align="center"><tbody><tr><td style="font-size: 14px; color: 333333; font-weight: bold; padding-bottom:15px;">测试报告：<font color="ff6600">自动化测试用例</font></td></tr><tr><td style="border: 2px #8cbfff solid;border-radius: 5px;"><table width="572" border="0" align="center" class="table_c" style="border-collapse:collapse;margin: 10px;"><tbody><tr><td width="100" height="28" align="center" bgcolor="#ffe9e9" style="border:1px solid #ccc;">测试内容</td><td colspan="3" bgcolor="#FFFFFF" align="center" style="border:1px solid #ccc;"><h4 style="line-height: 1px;margin:0;">title</h4></td></tr><tr><td width="100" height="28" align="center" bgcolor="#ffe9e9" style="border:1px solid #ccc;">测试状态</td><td height="28" width="150" bgcolor="#FFFFFF" align="center" style="border:1px solid #ccc;"><font style="font-weight: bold;font-size: 14px;color: #00d800;">status</font></td><td width="100" height="28" align="center" bgcolor="#ffe9e9" style="border:1px solid #ccc;">类型</td><td height="28" bgcolor="#FFFFFF" align="center" style="border:1px solid #ccc;">runtype</td></tr><tr><td width="80" height="28" align="center" bgcolor="#ffe9e9" style="border:1px solid #ccc;">通过率</td><td height="28" bgcolor="#FFFFFF" align="center" style="border:1px solid #ccc;">passrate</td><td width="100" height="28" align="center" bgcolor="#ffe9e9" style="border:1px solid #ccc;">开始时间</td><td height="28" bgcolor="#FFFFFF" align="center" style="border:1px solid #ccc;">starttime</td></tr><tr><td width="80" height="28" align="center" bgcolor="#ffe9e9" style="border:1px solid #ccc;">总用例数</td><td height="28" bgcolor="#FFFFFF" align="center" style="border:1px solid #ccc;">casecount</td><td width="80" height="28" align="center" bgcolor="#ffe9e9" style="border:1px solid #ccc;">结束时间</td><td height="28" bgcolor="#FFFFFF" align="center" style="border:1px solid #ccc;">endtime</td></tr></tbody></table></td></tr><tr><td><table width="592" border="0" align="center" cellspacing="0" cellpadding="0" style="margin: 24px 0 10px 0;border-bottom: #e4e4e4 1px solid;"><tbody><tr><td style="font-size: 13px; line-height: 20px; color: #999999; padding-top: 6px;">如果您对本次邮件结果有任何疑问，请联系 <a href="http://wpa.qq.com/msgrd?v=3&uin=1052949192&site=qq&menu=yes" target="_blank" color="#666666">William：1052949192</a></a> 反馈。</td></tr></tbody></table></td></tr><td><table width="592" border="0" align="center" cellspacing="0" cellpadding="0" style="margin: 24px 0 16px 0;border-top: #e4e4e4 1px solid;"><tbody><tr><td style="font-size: 13px; line-height: 20px; color: #999999; padding-top: 6px;">感谢您的查阅。<font color="#666666">All Rights Reserved by 特斯汀 College. Designed and Developed by Mr. William.</font></a></td></tr></tbody></table></td></tr></tbody></table></td></tr></tbody></table></body></html>'}
+2020-01-27 22:56:46,146-INFO-PASS
+2020-01-27 22:56:46,196-INFO-PASS
+2020-01-27 22:56:46,241-INFO-PASS
+2020-01-27 22:56:46,286-INFO-PASS
+2020-01-27 22:56:46,326-INFO-PASS
+2020-01-27 22:56:46,376-INFO-PASS
+2020-01-27 22:56:46,526-INFO-PASS
+2020-01-27 22:56:46,571-INFO-PASS
+2020-01-27 22:56:46,621-INFO-PASS
+2020-01-27 22:56:46,666-INFO-PASS
+2020-01-27 22:56:46,711-INFO-PASS
+2020-01-27 22:56:46,756-INFO-PASS
+2020-01-27 22:56:46,846-INFO-PASS
+2020-01-27 22:56:46,896-INFO-PASS
+2020-01-27 22:56:46,941-INFO-PASS
+2020-01-27 22:56:47,041-ERROR-'status'
+Traceback (most recent call last):
+  File "H:\mi\learn\testing\text\modules\http.py", line 103, in assertequals
+    if (str(self.result_json[key]) == str(value)):
+KeyError: 'status'
+2020-01-27 22:56:47,131-INFO-PASS
+2020-01-27 22:56:47,186-ERROR-'status'
+Traceback (most recent call last):
+  File "H:\mi\learn\testing\text\modules\http.py", line 103, in assertequals
+    if (str(self.result_json[key]) == str(value)):
+KeyError: 'status'
+2020-01-27 22:56:47,271-INFO-FAIL
+2020-01-27 22:56:47,321-INFO-FAIL
+2020-01-27 22:56:47,371-INFO-PASS
+2020-01-27 22:56:47,416-INFO-PASS
+2020-01-27 22:56:47,466-INFO-PASS
+2020-01-27 22:56:47,511-INFO-PASS
+2020-01-27 22:56:47,551-INFO-PASS
+2020-01-27 22:56:47,606-ERROR-'status'
+Traceback (most recent call last):
+  File "H:\mi\learn\testing\text\modules\http.py", line 103, in assertequals
+    if (str(self.result_json[key]) == str(value)):
+KeyError: 'status'
+2020-01-27 22:56:47,696-INFO-PASS
+2020-01-27 22:56:47,761-ERROR-'status'
+Traceback (most recent call last):
+  File "H:\mi\learn\testing\text\modules\http.py", line 103, in assertequals
+    if (str(self.result_json[key]) == str(value)):
+KeyError: 'status'
+2020-01-27 22:56:47,856-INFO-PASS
+2020-01-27 22:56:47,906-INFO-PASS
+2020-01-27 22:56:47,951-INFO-PASS
+2020-01-27 22:56:48,001-INFO-PASS
+2020-01-27 22:56:48,051-INFO-PASS
+2020-01-27 22:56:48,101-INFO-PASS
+2020-01-27 22:56:48,151-INFO-PASS
+2020-01-27 22:56:48,206-ERROR-'status'
+Traceback (most recent call last):
+  File "H:\mi\learn\testing\text\modules\http.py", line 103, in assertequals
+    if (str(self.result_json[key]) == str(value)):
+KeyError: 'status'
+2020-01-27 22:56:48,296-INFO-PASS
+2020-01-27 22:56:48,436-INFO-PASS
+2020-01-27 22:56:48,496-INFO-PASS
+2020-01-27 22:56:48,546-INFO-PASS
+2020-01-27 22:56:48,591-INFO-PASS
+2020-01-27 22:56:48,736-INFO-PASS
+2020-01-27 22:56:48,876-INFO-PASS
+2020-01-27 22:56:48,956-INFO-{'runtype': 'HTTP', 'title': 'HTTP接口自动化报告', 'starttime': '', 'endtime': '', 'casecount': '119', 'passrate': '94.11', 'status': 'Fail'}
+2020-01-27 22:56:48,956-INFO-{'mysqluser': 'Tester', 'mysqlpassword': '123456', 'mysqlport': '3306', 'mysqlhost': '112.74.191.10', 'mysqldb': 'test_project', 'mysqlcharset': 'utf8', 'mail': '943820638@qq.com', 'pwd': 'uwsozztwijgpbdee', 'mailto': '943820638@qq.com', 'mailcopy': '2274304947@qq.com,1137451353@qq.com', 'mailtitle': '接口自动化测试报告', 'mail_encoding': 'utf8', 'mailtxt': '<html><style type="text/css">body{ background:#ffffff; margin:0 auto; padding:0; text-align:left; font-size:13px; font-family: "微软雅黑","宋体";}table{ font-size:13px; font-family: "微软雅黑","宋体";}.table_c{border:1px solid #ccc;border-collapse:collapse; }.table_c td{border:1px solid #ccc; border-collapse:collapse;}.table_b{border:1px solid #666;border-collapse:collapse; }.table_b td{ border-collapse:collapse; border:1px solid #ccc;}.table_b th{color:#fff; background:#666;}a:link{ color:#3366cc; font-weight:normal; }a:visited { color: #3366cc;}a:hover{ color:#000; }a:active { color:#3366cc; }td{ line-height:20px;}.case-group {border: 1px solid transparent;border-color: #ddd;line-height:5px;}.case-group a:link,a:hover{color:#0092fa;text-decoration:none;}.group-模拟器测试用例{margin: 10px;}.case-模拟器测试用例{height: 30px;}.case-case {border-top: 1px solid;border-color: #ddd;padding: 13px;word-wrap: break-word;}.statuclass{float:right;right:5%;position:relative;}.countclass{float:right;right:20%;position:relative;}.passclass{float:right;right:30%;position:relative;}.casename{position:relative;left:3%;}.righta{float:right;font-size:20px;}.case-file{border: 2px #8cbfff solid;border-radius: 5px;}</style><table width="650" ="0" cellspacing="0" align="center" cellpadding="0" style="border-radius: 15px;background-color: #f6f5f5;border: 1px #ffe4da solid;"><tbody><tr><td><table width="650" border="0" cellpadding="0" cellspacing="0" style="border-radius: 15px 15px 0 0;background-color: #ffffff;"><tbody><tr><td width="137"><img src="http://112.74.191.10/wp-content/uploads/2018/07/logo_middle.png" width="137" height="80"></td><td align="left" style="font-size: 13px;color: #999999;padding-top: 26px;right: 10px;position: relative;top: -10px;text-align:right;"><h style="font-size: 20px;font-family: cursive;line-height: 30px;color: #8cbfff;">Hi All ！ </h><br>此为来自特斯汀学院自动化小组测试邮件，请不要直接回复。</td></tr></tbody></table><br><table width="592" border="0" cellspacing="0" cellpadding="0" align="center"><tbody><tr><td style="font-size: 14px; color: 333333; font-weight: bold; padding-bottom:15px;">测试报告：<font color="ff6600">自动化测试用例</font></td></tr><tr><td style="border: 2px #8cbfff solid;border-radius: 5px;"><table width="572" border="0" align="center" class="table_c" style="border-collapse:collapse;margin: 10px;"><tbody><tr><td width="100" height="28" align="center" bgcolor="#ffe9e9" style="border:1px solid #ccc;">测试内容</td><td colspan="3" bgcolor="#FFFFFF" align="center" style="border:1px solid #ccc;"><h4 style="line-height: 1px;margin:0;">title</h4></td></tr><tr><td width="100" height="28" align="center" bgcolor="#ffe9e9" style="border:1px solid #ccc;">测试状态</td><td height="28" width="150" bgcolor="#FFFFFF" align="center" style="border:1px solid #ccc;"><font style="font-weight: bold;font-size: 14px;color: #00d800;">status</font></td><td width="100" height="28" align="center" bgcolor="#ffe9e9" style="border:1px solid #ccc;">类型</td><td height="28" bgcolor="#FFFFFF" align="center" style="border:1px solid #ccc;">runtype</td></tr><tr><td width="80" height="28" align="center" bgcolor="#ffe9e9" style="border:1px solid #ccc;">通过率</td><td height="28" bgcolor="#FFFFFF" align="center" style="border:1px solid #ccc;">passrate</td><td width="100" height="28" align="center" bgcolor="#ffe9e9" style="border:1px solid #ccc;">开始时间</td><td height="28" bgcolor="#FFFFFF" align="center" style="border:1px solid #ccc;">starttime</td></tr><tr><td width="80" height="28" align="center" bgcolor="#ffe9e9" style="border:1px solid #ccc;">总用例数</td><td height="28" bgcolor="#FFFFFF" align="center" style="border:1px solid #ccc;">casecount</td><td width="80" height="28" align="center" bgcolor="#ffe9e9" style="border:1px solid #ccc;">结束时间</td><td height="28" bgcolor="#FFFFFF" align="center" style="border:1px solid #ccc;">endtime</td></tr></tbody></table></td></tr><tr><td><table width="592" border="0" align="center" cellspacing="0" cellpadding="0" style="margin: 24px 0 10px 0;border-bottom: #e4e4e4 1px solid;"><tbody><tr><td style="font-size: 13px; line-height: 20px; color: #999999; padding-top: 6px;">如果您对本次邮件结果有任何疑问，请联系 <a href="http://wpa.qq.com/msgrd?v=3&uin=1052949192&site=qq&menu=yes" target="_blank" color="#666666">William：1052949192</a></a> 反馈。</td></tr></tbody></table></td></tr><td><table width="592" border="0" align="center" cellspacing="0" cellpadding="0" style="margin: 24px 0 16px 0;border-top: #e4e4e4 1px solid;"><tbody><tr><td style="font-size: 13px; line-height: 20px; color: #999999; padding-top: 6px;">感谢您的查阅。<font color="#666666">All Rights Reserved by 特斯汀 College. Designed and Developed by Mr. William.</font></a></td></tr></tbody></table></td></tr></tbody></table></td></tr></tbody></table></body></html>'}
+2020-01-27 22:56:48,961-DEBUG-{'mysqluser': 'Tester', 'mysqlpassword': '123456', 'mysqlport': '3306', 'mysqlhost': '112.74.191.10', 'mysqldb': 'test_project', 'mysqlcharset': 'utf8', 'mail': '943820638@qq.com', 'pwd': 'uwsozztwijgpbdee', 'mailto': '943820638@qq.com', 'mailcopy': '2274304947@qq.com,1137451353@qq.com', 'mailtitle': '接口自动化测试报告', 'mail_encoding': 'utf8', 'mailtxt': '<html><style type="text/css">body{ background:#ffffff; margin:0 auto; padding:0; text-align:left; font-size:13px; font-family: "微软雅黑","宋体";}table{ font-size:13px; font-family: "微软雅黑","宋体";}.table_c{border:1px solid #ccc;border-collapse:collapse; }.table_c td{border:1px solid #ccc; border-collapse:collapse;}.table_b{border:1px solid #666;border-collapse:collapse; }.table_b td{ border-collapse:collapse; border:1px solid #ccc;}.table_b th{color:#fff; background:#666;}a:link{ color:#3366cc; font-weight:normal; }a:visited { color: #3366cc;}a:hover{ color:#000; }a:active { color:#3366cc; }td{ line-height:20px;}.case-group {border: 1px solid transparent;border-color: #ddd;line-height:5px;}.case-group a:link,a:hover{color:#0092fa;text-decoration:none;}.group-模拟器测试用例{margin: 10px;}.case-模拟器测试用例{height: 30px;}.case-case {border-top: 1px solid;border-color: #ddd;padding: 13px;word-wrap: break-word;}.statuclass{float:right;right:5%;position:relative;}.countclass{float:right;right:20%;position:relative;}.passclass{float:right;right:30%;position:relative;}.casename{position:relative;left:3%;}.righta{float:right;font-size:20px;}.case-file{border: 2px #8cbfff solid;border-radius: 5px;}</style><table width="650" ="0" cellspacing="0" align="center" cellpadding="0" style="border-radius: 15px;background-color: #f6f5f5;border: 1px #ffe4da solid;"><tbody><tr><td><table width="650" border="0" cellpadding="0" cellspacing="0" style="border-radius: 15px 15px 0 0;background-color: #ffffff;"><tbody><tr><td width="137"><img src="http://112.74.191.10/wp-content/uploads/2018/07/logo_middle.png" width="137" height="80"></td><td align="left" style="font-size: 13px;color: #999999;padding-top: 26px;right: 10px;position: relative;top: -10px;text-align:right;"><h style="font-size: 20px;font-family: cursive;line-height: 30px;color: #8cbfff;">Hi All ！ </h><br>此为来自特斯汀学院自动化小组测试邮件，请不要直接回复。</td></tr></tbody></table><br><table width="592" border="0" cellspacing="0" cellpadding="0" align="center"><tbody><tr><td style="font-size: 14px; color: 333333; font-weight: bold; padding-bottom:15px;">测试报告：<font color="ff6600">自动化测试用例</font></td></tr><tr><td style="border: 2px #8cbfff solid;border-radius: 5px;"><table width="572" border="0" align="center" class="table_c" style="border-collapse:collapse;margin: 10px;"><tbody><tr><td width="100" height="28" align="center" bgcolor="#ffe9e9" style="border:1px solid #ccc;">测试内容</td><td colspan="3" bgcolor="#FFFFFF" align="center" style="border:1px solid #ccc;"><h4 style="line-height: 1px;margin:0;">title</h4></td></tr><tr><td width="100" height="28" align="center" bgcolor="#ffe9e9" style="border:1px solid #ccc;">测试状态</td><td height="28" width="150" bgcolor="#FFFFFF" align="center" style="border:1px solid #ccc;"><font style="font-weight: bold;font-size: 14px;color: #00d800;">status</font></td><td width="100" height="28" align="center" bgcolor="#ffe9e9" style="border:1px solid #ccc;">类型</td><td height="28" bgcolor="#FFFFFF" align="center" style="border:1px solid #ccc;">runtype</td></tr><tr><td width="80" height="28" align="center" bgcolor="#ffe9e9" style="border:1px solid #ccc;">通过率</td><td height="28" bgcolor="#FFFFFF" align="center" style="border:1px solid #ccc;">passrate</td><td width="100" height="28" align="center" bgcolor="#ffe9e9" style="border:1px solid #ccc;">开始时间</td><td height="28" bgcolor="#FFFFFF" align="center" style="border:1px solid #ccc;">starttime</td></tr><tr><td width="80" height="28" align="center" bgcolor="#ffe9e9" style="border:1px solid #ccc;">总用例数</td><td height="28" bgcolor="#FFFFFF" align="center" style="border:1px solid #ccc;">casecount</td><td width="80" height="28" align="center" bgcolor="#ffe9e9" style="border:1px solid #ccc;">结束时间</td><td height="28" bgcolor="#FFFFFF" align="center" style="border:1px solid #ccc;">endtime</td></tr></tbody></table></td></tr><tr><td><table width="592" border="0" align="center" cellspacing="0" cellpadding="0" style="margin: 24px 0 10px 0;border-bottom: #e4e4e4 1px solid;"><tbody><tr><td style="font-size: 13px; line-height: 20px; color: #999999; padding-top: 6px;">如果您对本次邮件结果有任何疑问，请联系 <a href="http://wpa.qq.com/msgrd?v=3&uin=1052949192&site=qq&menu=yes" target="_blank" color="#666666">William：1052949192</a></a> 反馈。</td></tr></tbody></table></td></tr><td><table width="592" border="0" align="center" cellspacing="0" cellpadding="0" style="margin: 24px 0 16px 0;border-top: #e4e4e4 1px solid;"><tbody><tr><td style="font-size: 13px; line-height: 20px; color: #999999; padding-top: 6px;">感谢您的查阅。<font color="#666666">All Rights Reserved by 特斯汀 College. Designed and Developed by Mr. William.</font></a></td></tr></tbody></table></td></tr></tbody></table></td></tr></tbody></table></body></html>'}
+2020-01-27 22:56:49,866-DEBUG-{'from': '943820638@qq.com', 'username': '943820638@qq.com', 'hostname': 'smtp.qq.com', 'password': 'uwsozztwijgpbdee', 'to': ['943820638@qq.com'], 'cc': ['2274304947@qq.com', '1137451353@qq.com'], 'mail_subject': '接口自动化测试报告', 'mail_encoding': 'utf8', 'filepaths': [], 'filenames': []}
+2020-01-27 22:56:49,866-DEBUG-<html><style type="text/css">body{ background:#ffffff; margin:0 auto; padding:0; text-align:left; font-size:13px; font-family: "微软雅黑","宋体";}table{ font-size:13px; font-family: "微软雅黑","宋体";}.table_c{border:1px solid #ccc;border-collapse:collapse; }.table_c td{border:1px solid #ccc; border-collapse:collapse;}.table_b{border:1px solid #666;border-collapse:collapse; }.table_b td{ border-collapse:collapse; border:1px solid #ccc;}.table_b th{color:#fff; background:#666;}a:link{ color:#3366cc; font-weight:normal; }a:visited { color: #3366cc;}a:hover{ color:#000; }a:active { color:#3366cc; }td{ line-height:20px;}.case-group {border: 1px solid transparent;border-color: #ddd;line-height:5px;}.case-group a:link,a:hover{color:#0092fa;text-decoration:none;}.group-模拟器测试用例{margin: 10px;}.case-模拟器测试用例{height: 30px;}.case-case {border-top: 1px solid;border-color: #ddd;padding: 13px;word-wrap: break-word;}.statuclass{float:right;right:5%;position:relative;}.countclass{float:right;right:20%;position:relative;}.passclass{float:right;right:30%;position:relative;}.casename{position:relative;left:3%;}.righta{float:right;font-size:20px;}.case-file{border: 2px #8cbfff solid;border-radius: 5px;}</style><table width="650" ="0" cellspacing="0" align="center" cellpadding="0" style="border-radius: 15px;background-color: #f6f5f5;border: 1px #ffe4da solid;"><tbody><tr><td><table width="650" border="0" cellpadding="0" cellspacing="0" style="border-radius: 15px 15px 0 0;background-color: #ffffff;"><tbody><tr><td width="137"><img src="http://112.74.191.10/wp-content/uploads/2018/07/logo_middle.png" width="137" height="80"></td><td align="left" style="font-size: 13px;color: #999999;padding-top: 26px;right: 10px;position: relative;top: -10px;text-align:right;"><h style="font-size: 20px;font-family: cursive;line-height: 30px;color: #8cbfff;">Hi All ！ </h><br>此为来自特斯汀学院自动化小组测试邮件，请不要直接回复。</td></tr></tbody></table><br><table width="592" border="0" cellspacing="0" cellpadding="0" align="center"><tbody><tr><td style="font-size: 14px; color: 333333; font-weight: bold; padding-bottom:15px;">测试报告：<font color="ff6600">自动化测试用例</font></td></tr><tr><td style="border: 2px #8cbfff solid;border-radius: 5px;"><table width="572" border="0" align="center" class="table_c" style="border-collapse:collapse;margin: 10px;"><tbody><tr><td width="100" height="28" align="center" bgcolor="#ffe9e9" style="border:1px solid #ccc;">测试内容</td><td colspan="3" bgcolor="#FFFFFF" align="center" style="border:1px solid #ccc;"><h4 style="line-height: 1px;margin:0;">HTTP接口自动化报告</h4></td></tr><tr><td width="100" height="28" align="center" bgcolor="#ffe9e9" style="border:1px solid #ccc;">测试状态</td><td height="28" width="150" bgcolor="#FFFFFF" align="center" style="border:1px solid #ccc;"><font style="font-weight: bold;font-size: 14px;color: #00d800;">Fail</font></td><td width="100" height="28" align="center" bgcolor="#ffe9e9" style="border:1px solid #ccc;">类型</td><td height="28" bgcolor="#FFFFFF" align="center" style="border:1px solid #ccc;">HTTP</td></tr><tr><td width="80" height="28" align="center" bgcolor="#ffe9e9" style="border:1px solid #ccc;">通过率</td><td height="28" bgcolor="#FFFFFF" align="center" style="border:1px solid #ccc;">94.11</td><td width="100" height="28" align="center" bgcolor="#ffe9e9" style="border:1px solid #ccc;">开始时间</td><td height="28" bgcolor="#FFFFFF" align="center" style="border:1px solid #ccc;">Mon Jan 27 22:56:48 2020</td></tr><tr><td width="80" height="28" align="center" bgcolor="#ffe9e9" style="border:1px solid #ccc;">总用例数</td><td height="28" bgcolor="#FFFFFF" align="center" style="border:1px solid #ccc;">119</td><td width="80" height="28" align="center" bgcolor="#ffe9e9" style="border:1px solid #ccc;">结束时间</td><td height="28" bgcolor="#FFFFFF" align="center" style="border:1px solid #ccc;">Mon Jan 27 22:56:48 2020</td></tr></tbody></table></td></tr><tr><td><table width="592" border="0" align="center" cellspacing="0" cellpadding="0" style="margin: 24px 0 10px 0;border-bottom: #e4e4e4 1px solid;"><tbody><tr><td style="font-size: 13px; line-height: 20px; color: #999999; padding-top: 6px;">如果您对本次邮件结果有任何疑问，请联系 <a href="http://wpa.qq.com/msgrd?v=3&uin=1052949192&site=qq&menu=yes" target="_blank" color="#666666">William：1052949192</a></a> 反馈。</td></tr></tbody></table></td></tr><td><table width="592" border="0" align="center" cellspacing="0" cellpadding="0" style="margin: 24px 0 16px 0;border-top: #e4e4e4 1px solid;"><tbody><tr><td style="font-size: 13px; line-height: 20px; color: #999999; padding-top: 6px;">感谢您的查阅。<font color="#666666">All Rights Reserved by 特斯汀 College. Designed and Developed by Mr. William.</font></a></td></tr></tbody></table></td></tr></tbody></table></td></tr></tbody></table></body></html>
+2020-01-27 22:57:11,359-ERROR-邮件发送失败：
+2020-01-27 22:57:11,359-ERROR-Connection unexpectedly closed: [WinError 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。
+Traceback (most recent call last):
+  File "C:\Users\Administrator.PC-20191114KDJZ\AppData\Local\Programs\Python\Python37-32\lib\smtplib.py", line 387, in getreply
+    line = self.file.readline(_MAXLINE + 1)
+  File "C:\Users\Administrator.PC-20191114KDJZ\AppData\Local\Programs\Python\Python37-32\lib\socket.py", line 589, in readinto
+    return self._sock.recv_into(b)
+  File "C:\Users\Administrator.PC-20191114KDJZ\AppData\Local\Programs\Python\Python37-32\lib\ssl.py", line 1071, in recv_into
+    return self.read(nbytes, buffer)
+  File "C:\Users\Administrator.PC-20191114KDJZ\AppData\Local\Programs\Python\Python37-32\lib\ssl.py", line 929, in read
+    return self._sslobj.read(len, buffer)
+TimeoutError: [WinError 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "H:\mi\learn\testing\text\common\mail.py", line 62, in send
+    smtp.sendmail(self.mail_info['from'], receive, msg.as_string())
+  File "C:\Users\Administrator.PC-20191114KDJZ\AppData\Local\Programs\Python\Python37-32\lib\smtplib.py", line 882, in sendmail
+    (code, resp) = self.data(msg)
+  File "C:\Users\Administrator.PC-20191114KDJZ\AppData\Local\Programs\Python\Python37-32\lib\smtplib.py", line 569, in data
+    (code, msg) = self.getreply()
+  File "C:\Users\Administrator.PC-20191114KDJZ\AppData\Local\Programs\Python\Python37-32\lib\smtplib.py", line 391, in getreply
+    + str(e))
+smtplib.SMTPServerDisconnected: Connection unexpectedly closed: [WinError 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。
+2020-01-27 22:58:10,822-INFO-PASS
+2020-01-27 22:58:10,867-INFO-PASS
+2020-01-27 22:58:10,912-INFO-PASS
+2020-01-27 22:58:10,957-INFO-PASS
+2020-01-27 22:58:11,007-INFO-PASS
+2020-01-27 22:58:11,052-INFO-PASS
+2020-01-27 22:58:11,147-INFO-PASS
+2020-01-27 22:58:11,192-INFO-PASS
+2020-01-27 22:58:11,242-INFO-PASS
+2020-01-27 22:58:11,287-INFO-PASS
+2020-01-27 22:58:11,337-INFO-PASS
+2020-01-27 22:58:11,382-INFO-PASS
+2020-01-27 22:58:11,482-INFO-PASS
+2020-01-27 22:58:11,527-INFO-PASS
+2020-01-27 22:58:11,572-INFO-PASS
+2020-01-27 22:58:11,677-ERROR-'status'
+Traceback (most recent call last):
+  File "H:\mi\learn\testing\text\modules\http.py", line 103, in assertequals
+    if (str(self.result_json[key]) == str(value)):
+KeyError: 'status'
+2020-01-27 22:58:11,767-INFO-PASS
+2020-01-27 22:58:11,817-ERROR-'status'
+Traceback (most recent call last):
+  File "H:\mi\learn\testing\text\modules\http.py", line 103, in assertequals
+    if (str(self.result_json[key]) == str(value)):
+KeyError: 'status'
+2020-01-27 22:58:11,907-INFO-FAIL
+2020-01-27 22:58:11,957-INFO-FAIL
+2020-01-27 22:58:12,002-INFO-PASS
+2020-01-27 22:58:12,047-INFO-PASS
+2020-01-27 22:58:12,097-INFO-PASS
+2020-01-27 22:58:12,137-INFO-PASS
+2020-01-27 22:58:12,187-INFO-PASS
+2020-01-27 22:58:12,232-ERROR-'status'
+Traceback (most recent call last):
+  File "H:\mi\learn\testing\text\modules\http.py", line 103, in assertequals
+    if (str(self.result_json[key]) == str(value)):
+KeyError: 'status'
+2020-01-27 22:58:12,322-INFO-PASS
+2020-01-27 22:58:12,377-ERROR-'status'
+Traceback (most recent call last):
+  File "H:\mi\learn\testing\text\modules\http.py", line 103, in assertequals
+    if (str(self.result_json[key]) == str(value)):
+KeyError: 'status'
+2020-01-27 22:58:12,467-INFO-PASS
+2020-01-27 22:58:12,512-INFO-PASS
+2020-01-27 22:58:12,557-INFO-PASS
+2020-01-27 22:58:12,607-INFO-PASS
+2020-01-27 22:58:12,652-INFO-PASS
+2020-01-27 22:58:12,697-INFO-PASS
+2020-01-27 22:58:12,742-INFO-PASS
+2020-01-27 22:58:12,792-ERROR-'status'
+Traceback (most recent call last):
+  File "H:\mi\learn\testing\text\modules\http.py", line 103, in assertequals
+    if (str(self.result_json[key]) == str(value)):
+KeyError: 'status'
+2020-01-27 22:58:12,887-INFO-PASS
+2020-01-27 22:58:13,027-INFO-PASS
+2020-01-27 22:58:13,077-INFO-PASS
+2020-01-27 22:58:13,127-INFO-PASS
+2020-01-27 22:58:13,177-INFO-PASS
+2020-01-27 22:58:13,317-INFO-PASS
+2020-01-27 22:58:13,457-INFO-PASS
+2020-01-27 22:58:13,537-INFO-{'runtype': 'HTTP', 'title': 'HTTP接口自动化报告', 'starttime': '', 'endtime': '', 'casecount': '119', 'passrate': '94.11', 'status': 'Fail'}
+2020-01-27 22:58:13,537-INFO-{'mysqluser': 'Tester', 'mysqlpassword': '123456', 'mysqlport': '3306', 'mysqlhost': '112.74.191.10', 'mysqldb': 'test_project', 'mysqlcharset': 'utf8', 'mail': '943820638@qq.com', 'pwd': 'uwsozztwijgpbdee', 'mailto': '943820638@qq.com', 'mailcopy': '2274304947@qq.com,1137451353@qq.com', 'mailtitle': '接口自动化测试报告', 'mail_encoding': 'utf8', 'mailtxt': '<html><style type="text/css">body{ background:#ffffff; margin:0 auto; padding:0; text-align:left; font-size:13px; font-family: "微软雅黑","宋体";}table{ font-size:13px; font-family: "微软雅黑","宋体";}.table_c{border:1px solid #ccc;border-collapse:collapse; }.table_c td{border:1px solid #ccc; border-collapse:collapse;}.table_b{border:1px solid #666;border-collapse:collapse; }.table_b td{ border-collapse:collapse; border:1px solid #ccc;}.table_b th{color:#fff; background:#666;}a:link{ color:#3366cc; font-weight:normal; }a:visited { color: #3366cc;}a:hover{ color:#000; }a:active { color:#3366cc; }td{ line-height:20px;}.case-group {border: 1px solid transparent;border-color: #ddd;line-height:5px;}.case-group a:link,a:hover{color:#0092fa;text-decoration:none;}.group-模拟器测试用例{margin: 10px;}.case-模拟器测试用例{height: 30px;}.case-case {border-top: 1px solid;border-color: #ddd;padding: 13px;word-wrap: break-word;}.statuclass{float:right;right:5%;position:relative;}.countclass{float:right;right:20%;position:relative;}.passclass{float:right;right:30%;position:relative;}.casename{position:relative;left:3%;}.righta{float:right;font-size:20px;}.case-file{border: 2px #8cbfff solid;border-radius: 5px;}</style><table width="650" ="0" cellspacing="0" align="center" cellpadding="0" style="border-radius: 15px;background-color: #f6f5f5;border: 1px #ffe4da solid;"><tbody><tr><td><table width="650" border="0" cellpadding="0" cellspacing="0" style="border-radius: 15px 15px 0 0;background-color: #ffffff;"><tbody><tr><td width="137"><img src="http://112.74.191.10/wp-content/uploads/2018/07/logo_middle.png" width="137" height="80"></td><td align="left" style="font-size: 13px;color: #999999;padding-top: 26px;right: 10px;position: relative;top: -10px;text-align:right;"><h style="font-size: 20px;font-family: cursive;line-height: 30px;color: #8cbfff;">Hi All ！ </h><br>此为来自特斯汀学院自动化小组测试邮件，请不要直接回复。</td></tr></tbody></table><br><table width="592" border="0" cellspacing="0" cellpadding="0" align="center"><tbody><tr><td style="font-size: 14px; color: 333333; font-weight: bold; padding-bottom:15px;">测试报告：<font color="ff6600">自动化测试用例</font></td></tr><tr><td style="border: 2px #8cbfff solid;border-radius: 5px;"><table width="572" border="0" align="center" class="table_c" style="border-collapse:collapse;margin: 10px;"><tbody><tr><td width="100" height="28" align="center" bgcolor="#ffe9e9" style="border:1px solid #ccc;">测试内容</td><td colspan="3" bgcolor="#FFFFFF" align="center" style="border:1px solid #ccc;"><h4 style="line-height: 1px;margin:0;">title</h4></td></tr><tr><td width="100" height="28" align="center" bgcolor="#ffe9e9" style="border:1px solid #ccc;">测试状态</td><td height="28" width="150" bgcolor="#FFFFFF" align="center" style="border:1px solid #ccc;"><font style="font-weight: bold;font-size: 14px;color: #00d800;">status</font></td><td width="100" height="28" align="center" bgcolor="#ffe9e9" style="border:1px solid #ccc;">类型</td><td height="28" bgcolor="#FFFFFF" align="center" style="border:1px solid #ccc;">runtype</td></tr><tr><td width="80" height="28" align="center" bgcolor="#ffe9e9" style="border:1px solid #ccc;">通过率</td><td height="28" bgcolor="#FFFFFF" align="center" style="border:1px solid #ccc;">passrate</td><td width="100" height="28" align="center" bgcolor="#ffe9e9" style="border:1px solid #ccc;">开始时间</td><td height="28" bgcolor="#FFFFFF" align="center" style="border:1px solid #ccc;">starttime</td></tr><tr><td width="80" height="28" align="center" bgcolor="#ffe9e9" style="border:1px solid #ccc;">总用例数</td><td height="28" bgcolor="#FFFFFF" align="center" style="border:1px solid #ccc;">casecount</td><td width="80" height="28" align="center" bgcolor="#ffe9e9" style="border:1px solid #ccc;">结束时间</td><td height="28" bgcolor="#FFFFFF" align="center" style="border:1px solid #ccc;">endtime</td></tr></tbody></table></td></tr><tr><td><table width="592" border="0" align="center" cellspacing="0" cellpadding="0" style="margin: 24px 0 10px 0;border-bottom: #e4e4e4 1px solid;"><tbody><tr><td style="font-size: 13px; line-height: 20px; color: #999999; padding-top: 6px;">如果您对本次邮件结果有任何疑问，请联系 <a href="http://wpa.qq.com/msgrd?v=3&uin=1052949192&site=qq&menu=yes" target="_blank" color="#666666">William：1052949192</a></a> 反馈。</td></tr></tbody></table></td></tr><td><table width="592" border="0" align="center" cellspacing="0" cellpadding="0" style="margin: 24px 0 16px 0;border-top: #e4e4e4 1px solid;"><tbody><tr><td style="font-size: 13px; line-height: 20px; color: #999999; padding-top: 6px;">感谢您的查阅。<font color="#666666">All Rights Reserved by 特斯汀 College. Designed and Developed by Mr. William.</font></a></td></tr></tbody></table></td></tr></tbody></table></td></tr></tbody></table></body></html>'}
+2020-01-27 22:58:13,542-DEBUG-{'mysqluser': 'Tester', 'mysqlpassword': '123456', 'mysqlport': '3306', 'mysqlhost': '112.74.191.10', 'mysqldb': 'test_project', 'mysqlcharset': 'utf8', 'mail': '943820638@qq.com', 'pwd': 'uwsozztwijgpbdee', 'mailto': '943820638@qq.com', 'mailcopy': '2274304947@qq.com,1137451353@qq.com', 'mailtitle': '接口自动化测试报告', 'mail_encoding': 'utf8', 'mailtxt': '<html><style type="text/css">body{ background:#ffffff; margin:0 auto; padding:0; text-align:left; font-size:13px; font-family: "微软雅黑","宋体";}table{ font-size:13px; font-family: "微软雅黑","宋体";}.table_c{border:1px solid #ccc;border-collapse:collapse; }.table_c td{border:1px solid #ccc; border-collapse:collapse;}.table_b{border:1px solid #666;border-collapse:collapse; }.table_b td{ border-collapse:collapse; border:1px solid #ccc;}.table_b th{color:#fff; background:#666;}a:link{ color:#3366cc; font-weight:normal; }a:visited { color: #3366cc;}a:hover{ color:#000; }a:active { color:#3366cc; }td{ line-height:20px;}.case-group {border: 1px solid transparent;border-color: #ddd;line-height:5px;}.case-group a:link,a:hover{color:#0092fa;text-decoration:none;}.group-模拟器测试用例{margin: 10px;}.case-模拟器测试用例{height: 30px;}.case-case {border-top: 1px solid;border-color: #ddd;padding: 13px;word-wrap: break-word;}.statuclass{float:right;right:5%;position:relative;}.countclass{float:right;right:20%;position:relative;}.passclass{float:right;right:30%;position:relative;}.casename{position:relative;left:3%;}.righta{float:right;font-size:20px;}.case-file{border: 2px #8cbfff solid;border-radius: 5px;}</style><table width="650" ="0" cellspacing="0" align="center" cellpadding="0" style="border-radius: 15px;background-color: #f6f5f5;border: 1px #ffe4da solid;"><tbody><tr><td><table width="650" border="0" cellpadding="0" cellspacing="0" style="border-radius: 15px 15px 0 0;background-color: #ffffff;"><tbody><tr><td width="137"><img src="http://112.74.191.10/wp-content/uploads/2018/07/logo_middle.png" width="137" height="80"></td><td align="left" style="font-size: 13px;color: #999999;padding-top: 26px;right: 10px;position: relative;top: -10px;text-align:right;"><h style="font-size: 20px;font-family: cursive;line-height: 30px;color: #8cbfff;">Hi All ！ </h><br>此为来自特斯汀学院自动化小组测试邮件，请不要直接回复。</td></tr></tbody></table><br><table width="592" border="0" cellspacing="0" cellpadding="0" align="center"><tbody><tr><td style="font-size: 14px; color: 333333; font-weight: bold; padding-bottom:15px;">测试报告：<font color="ff6600">自动化测试用例</font></td></tr><tr><td style="border: 2px #8cbfff solid;border-radius: 5px;"><table width="572" border="0" align="center" class="table_c" style="border-collapse:collapse;margin: 10px;"><tbody><tr><td width="100" height="28" align="center" bgcolor="#ffe9e9" style="border:1px solid #ccc;">测试内容</td><td colspan="3" bgcolor="#FFFFFF" align="center" style="border:1px solid #ccc;"><h4 style="line-height: 1px;margin:0;">title</h4></td></tr><tr><td width="100" height="28" align="center" bgcolor="#ffe9e9" style="border:1px solid #ccc;">测试状态</td><td height="28" width="150" bgcolor="#FFFFFF" align="center" style="border:1px solid #ccc;"><font style="font-weight: bold;font-size: 14px;color: #00d800;">status</font></td><td width="100" height="28" align="center" bgcolor="#ffe9e9" style="border:1px solid #ccc;">类型</td><td height="28" bgcolor="#FFFFFF" align="center" style="border:1px solid #ccc;">runtype</td></tr><tr><td width="80" height="28" align="center" bgcolor="#ffe9e9" style="border:1px solid #ccc;">通过率</td><td height="28" bgcolor="#FFFFFF" align="center" style="border:1px solid #ccc;">passrate</td><td width="100" height="28" align="center" bgcolor="#ffe9e9" style="border:1px solid #ccc;">开始时间</td><td height="28" bgcolor="#FFFFFF" align="center" style="border:1px solid #ccc;">starttime</td></tr><tr><td width="80" height="28" align="center" bgcolor="#ffe9e9" style="border:1px solid #ccc;">总用例数</td><td height="28" bgcolor="#FFFFFF" align="center" style="border:1px solid #ccc;">casecount</td><td width="80" height="28" align="center" bgcolor="#ffe9e9" style="border:1px solid #ccc;">结束时间</td><td height="28" bgcolor="#FFFFFF" align="center" style="border:1px solid #ccc;">endtime</td></tr></tbody></table></td></tr><tr><td><table width="592" border="0" align="center" cellspacing="0" cellpadding="0" style="margin: 24px 0 10px 0;border-bottom: #e4e4e4 1px solid;"><tbody><tr><td style="font-size: 13px; line-height: 20px; color: #999999; padding-top: 6px;">如果您对本次邮件结果有任何疑问，请联系 <a href="http://wpa.qq.com/msgrd?v=3&uin=1052949192&site=qq&menu=yes" target="_blank" color="#666666">William：1052949192</a></a> 反馈。</td></tr></tbody></table></td></tr><td><table width="592" border="0" align="center" cellspacing="0" cellpadding="0" style="margin: 24px 0 16px 0;border-top: #e4e4e4 1px solid;"><tbody><tr><td style="font-size: 13px; line-height: 20px; color: #999999; padding-top: 6px;">感谢您的查阅。<font color="#666666">All Rights Reserved by 特斯汀 College. Designed and Developed by Mr. William.</font></a></td></tr></tbody></table></td></tr></tbody></table></td></tr></tbody></table></body></html>'}
+2020-01-27 22:58:18,047-DEBUG-{'from': '943820638@qq.com', 'username': '943820638@qq.com', 'hostname': 'smtp.qq.com', 'password': 'uwsozztwijgpbdee', 'to': ['943820638@qq.com'], 'cc': ['2274304947@qq.com', '1137451353@qq.com'], 'mail_subject': '接口自动化测试报告', 'mail_encoding': 'utf8', 'filepaths': [], 'filenames': []}
+2020-01-27 22:58:18,047-DEBUG-<html><style type="text/css">body{ background:#ffffff; margin:0 auto; padding:0; text-align:left; font-size:13px; font-family: "微软雅黑","宋体";}table{ font-size:13px; font-family: "微软雅黑","宋体";}.table_c{border:1px solid #ccc;border-collapse:collapse; }.table_c td{border:1px solid #ccc; border-collapse:collapse;}.table_b{border:1px solid #666;border-collapse:collapse; }.table_b td{ border-collapse:collapse; border:1px solid #ccc;}.table_b th{color:#fff; background:#666;}a:link{ color:#3366cc; font-weight:normal; }a:visited { color: #3366cc;}a:hover{ color:#000; }a:active { color:#3366cc; }td{ line-height:20px;}.case-group {border: 1px solid transparent;border-color: #ddd;line-height:5px;}.case-group a:link,a:hover{color:#0092fa;text-decoration:none;}.group-模拟器测试用例{margin: 10px;}.case-模拟器测试用例{height: 30px;}.case-case {border-top: 1px solid;border-color: #ddd;padding: 13px;word-wrap: break-word;}.statuclass{float:right;right:5%;position:relative;}.countclass{float:right;right:20%;position:relative;}.passclass{float:right;right:30%;position:relative;}.casename{position:relative;left:3%;}.righta{float:right;font-size:20px;}.case-file{border: 2px #8cbfff solid;border-radius: 5px;}</style><table width="650" ="0" cellspacing="0" align="center" cellpadding="0" style="border-radius: 15px;background-color: #f6f5f5;border: 1px #ffe4da solid;"><tbody><tr><td><table width="650" border="0" cellpadding="0" cellspacing="0" style="border-radius: 15px 15px 0 0;background-color: #ffffff;"><tbody><tr><td width="137"><img src="http://112.74.191.10/wp-content/uploads/2018/07/logo_middle.png" width="137" height="80"></td><td align="left" style="font-size: 13px;color: #999999;padding-top: 26px;right: 10px;position: relative;top: -10px;text-align:right;"><h style="font-size: 20px;font-family: cursive;line-height: 30px;color: #8cbfff;">Hi All ！ </h><br>此为来自特斯汀学院自动化小组测试邮件，请不要直接回复。</td></tr></tbody></table><br><table width="592" border="0" cellspacing="0" cellpadding="0" align="center"><tbody><tr><td style="font-size: 14px; color: 333333; font-weight: bold; padding-bottom:15px;">测试报告：<font color="ff6600">自动化测试用例</font></td></tr><tr><td style="border: 2px #8cbfff solid;border-radius: 5px;"><table width="572" border="0" align="center" class="table_c" style="border-collapse:collapse;margin: 10px;"><tbody><tr><td width="100" height="28" align="center" bgcolor="#ffe9e9" style="border:1px solid #ccc;">测试内容</td><td colspan="3" bgcolor="#FFFFFF" align="center" style="border:1px solid #ccc;"><h4 style="line-height: 1px;margin:0;">HTTP接口自动化报告</h4></td></tr><tr><td width="100" height="28" align="center" bgcolor="#ffe9e9" style="border:1px solid #ccc;">测试状态</td><td height="28" width="150" bgcolor="#FFFFFF" align="center" style="border:1px solid #ccc;"><font style="font-weight: bold;font-size: 14px;color: #00d800;">Fail</font></td><td width="100" height="28" align="center" bgcolor="#ffe9e9" style="border:1px solid #ccc;">类型</td><td height="28" bgcolor="#FFFFFF" align="center" style="border:1px solid #ccc;">HTTP</td></tr><tr><td width="80" height="28" align="center" bgcolor="#ffe9e9" style="border:1px solid #ccc;">通过率</td><td height="28" bgcolor="#FFFFFF" align="center" style="border:1px solid #ccc;">94.11</td><td width="100" height="28" align="center" bgcolor="#ffe9e9" style="border:1px solid #ccc;">开始时间</td><td height="28" bgcolor="#FFFFFF" align="center" style="border:1px solid #ccc;">Mon Jan 27 22:58:13 2020</td></tr><tr><td width="80" height="28" align="center" bgcolor="#ffe9e9" style="border:1px solid #ccc;">总用例数</td><td height="28" bgcolor="#FFFFFF" align="center" style="border:1px solid #ccc;">119</td><td width="80" height="28" align="center" bgcolor="#ffe9e9" style="border:1px solid #ccc;">结束时间</td><td height="28" bgcolor="#FFFFFF" align="center" style="border:1px solid #ccc;">Mon Jan 27 22:58:13 2020</td></tr></tbody></table></td></tr><tr><td><table width="592" border="0" align="center" cellspacing="0" cellpadding="0" style="margin: 24px 0 10px 0;border-bottom: #e4e4e4 1px solid;"><tbody><tr><td style="font-size: 13px; line-height: 20px; color: #999999; padding-top: 6px;">如果您对本次邮件结果有任何疑问，请联系 <a href="http://wpa.qq.com/msgrd?v=3&uin=1052949192&site=qq&menu=yes" target="_blank" color="#666666">William：1052949192</a></a> 反馈。</td></tr></tbody></table></td></tr><td><table width="592" border="0" align="center" cellspacing="0" cellpadding="0" style="margin: 24px 0 16px 0;border-top: #e4e4e4 1px solid;"><tbody><tr><td style="font-size: 13px; line-height: 20px; color: #999999; padding-top: 6px;">感谢您的查阅。<font color="#666666">All Rights Reserved by 特斯汀 College. Designed and Developed by Mr. William.</font></a></td></tr></tbody></table></td></tr></tbody></table></td></tr></tbody></table></body></html>
+2020-01-27 22:58:31,277-INFO-邮件发送成功

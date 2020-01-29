@@ -1,6 +1,6 @@
 # coding=utf-8
 import requests, json
-
+from common import logger
 
 class HTTP:
     """
@@ -25,10 +25,10 @@ class HTTP:
         """
         if u.startswith('http') or u.startswith('https'):
             self.url = u
-            self.writer.write(self.writer.row,7,'PASS')
+            self.writer.write(self.writer.row, 7, 'PASS')
             self.writer.write(self.writer.row, 8, self.url)
         else:
-            print('error:url格式错误！')
+            logger.error('url格式错误！')
             self.writer.write(self.writer.row, 7, 'FAIL')
             self.writer.write(self.writer.row, 8, 'url格式错误')
 
@@ -52,8 +52,14 @@ class HTTP:
             d = self.__get_data(d)
         res = self.session.post(url, d, js)
         self.result = res.content.decode('utf8')
-        self.result_json = json.loads(self.result)
-        print(self.result_json)
+        try:
+            self.result_json = json.loads(self.result)
+            self.writer.write(self.writer.row, 7, 'PASS')
+            self.writer.write(self.writer.row, 8, str(self.result_json))
+        except Exception as e:
+            self.result_json = {}
+            self.writer.write(self.writer.row, 7, 'FAIL')
+            self.writer.write(self.writer.row, 8, str(self.result))
 
     def removeheader(self, key):
         """
@@ -63,11 +69,15 @@ class HTTP:
         :return:
         """
         try:
-            self.session.headers.remove(key)
+            del self.session.headers[key]
+            self.writer.write(self.writer.row, 7, 'PASS')
+            self.writer.write(self.writer.row, 8, str(self.session.headers))
         except Exception as e:
-            print("没有" + key + "这个键的header存在")
+            logger.error("没有" + key + "这个键的header存在")
+            self.writer.write(self.writer.row, 7, 'FAIL')
+            self.writer.write(self.writer.row, 8, str(self.session.headers))
 
-    def addheaders(self, key, value):
+    def addheader(self, key, value):
         """
         powered by Jhx at 2020/1/24
         添加请求头
@@ -77,6 +87,8 @@ class HTTP:
         """
         value = self.__get_value(value)
         self.session.headers[key] = value
+        self.writer.write(self.writer.row, 7, 'PASS')
+        self.writer.write(self.writer.row, 8, str(self.session.headers))
 
     def assertequals(self, key, value):
         """
@@ -86,12 +98,20 @@ class HTTP:
         :param value: 需要断言的返回参数的值
         :return:
         """
-        if (str(self.result_json[key]) == str(value)):
-            print('PASS')
-        else:
-            print('FAIL')
+        value = self.__get_value(value)
+        try:
+            if (str(self.result_json[key]) == str(value)):
+                logger.info('PASS')
+                self.writer.write(self.writer.row, 7, 'PASS')
+                self.writer.write(self.writer.row, 8, str(self.result_json[key]))
+            else:
+                logger.info('FAIL')
+                self.writer.write(self.writer.row, 7, 'FAIL')
+                self.writer.write(self.writer.row, 8, str(self.result_json[key]))
+        except Exception as e:
+            logger.exception(e)
 
-    def saveresults(self, key, rekey):
+    def savejson(self, key, rekey):
         """
         powered by Jhx at 2020/1/24
         保存结果，用于接口之间的关联，将上一接口的返回参数保存下来，在之后的接口中用作入参或者请求头
@@ -99,7 +119,14 @@ class HTTP:
         :param rekey: 参数的值
         :return:
         """
-        self.result_return[rekey] = self.result_json[key]
+        try:
+            self.result_return[rekey] = self.result_json[key]
+            self.writer.write(self.writer.row, 7, 'PASS')
+            self.writer.write(self.writer.row, 8, str(self.result_return[rekey]))
+        except Exception as e:
+            logger.error("保存参数失败！没有" + key + "这个键")
+            self.writer.write(self.writer.row, 7, 'FAIL')
+            self.writer.write(self.writer.row, 8, str(self.result_json))
 
     def __get_value(self, value):
         """
@@ -108,8 +135,11 @@ class HTTP:
         :param value: 需要替换的参数
         :return: 返回替换后的值
         """
-        for i in self.result_return:
-            value = value.replace('{' + i + '}', self.result_return[i])
+        try:
+            for i in self.result_return:
+                value = value.replace('{' + i + '}', self.result_return[i])
+        except Exception as e:
+            pass
         return value
 
     def __get_data(self, value):
@@ -120,8 +150,12 @@ class HTTP:
         :return: 返回解析后的字典
         """
         param = {}
-        p1 = value.split('&')
-        for p2 in p1:
-            p3 = p2.split('=')
-            param[p3[0]] = p3[1]
+        try:
+            p1 = value.split('&')
+            for p2 in p1:
+                p3 = p2.split('=')
+                param[p3[0]] = p3[1]
+        except Exception as e:
+            logger.info("参数暂时没法处理！")
+
         return param
